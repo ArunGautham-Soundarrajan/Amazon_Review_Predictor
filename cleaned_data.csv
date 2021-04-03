@@ -1,0 +1,627 @@
+,Title,Price,No. Reviews,Display size,Storage type,CPU Speed,RAM,Rating,Brand,graphics,Processor
+0,"ASUS Full HD VivoBook X413JA 14-inch Laptop (Intel Core i5, 8GB RAM, 512GB SSD, Windows 10, Full HD Screen)",529.99,135,14.0,SSD,2.4,8,4.1,asus,0,i5
+1,"Jumper Laptop 13.3 inch with Microsoft Office 365 FHD Computer 4GB 64GB Windows 10 , USB 3.0, Dual Band Wifi, support 128GB Micro SD and 1TB SSD Expansion",229.99,1081,13.3,Flash Memory Solid State,2.2,4,4.3,other_brand,0,unknown
+2,"ASUS ZenBook UX325JA 13.3 inch Full HD Laptop (Intel i5-1035G1, 16GB RAM, 512GB PCIe SSD, 32GB Intel Optane Memory, Backlit Keyboard, Windows 10) Includes USB-C to Audio Jack Adapter & Carry Sleeve",729.99,103,13.3,SSD,1.0,16,4.4,asus,0,i5
+3,"Lenovo V15 ADA 15.6"" Full HD Laptop AMD Athlon 3150U 8GB RAM 256GB SSD Windows 10 - 82C7000BUK",398.7,82,15.6,SSD,2.4,8,4.4,lenovo,0,amd
+4,"Acer Predator Helios 300 PH315-53 15.6 inch Gaming Laptop (Intel Core i7-10750H, 16GB RAM, 1TB SSD, NVIDIA GTX 1660Ti, Full HD 144Hz Display, Windows 10, Black)",1098.97,1,15.6,Flash Memory Solid State,5.0,16,5.0,acer,1,i7
+5,"ASUS ZenBook S13 UX393 13.9 Inch Full HD 500nits Touchscreen Laptop (Intel i7-1065G7, 16 GB RAM, 1 TB PCIe SSD, Backlit Keyboard, Windows 10), Black",1099.99,17,13.9,Flash Memory Solid State,1.3,16,4.0,asus,0,i7
+6,"New Apple MacBook Air with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD) - Space Grey (Latest Model)",949.0,673,13.3,Flash Memory Solid State,3.1,8,4.8,other_brand,0,unknown
+7,"Acer Chromebook 314 CB314-H - (Intel Celeron N4000, 4GB RAM, 64GB eMMC, 14 inch Full-HD display, Chrome OS, Silver) – Amazon Exclusive",259.99,396,14.0,Flash Memory Solid State,1.1,4,4.5,acer,0,unknown
+8,"14.1"" Full HD Windows 10 Professional Slim n Light Laptop, Revolutionary Design - 4GB RAM, 64GB Storage S14+ Model Lapbook, Intel Celeron, USB 3.0, 5GHz WIFI, Expandable Storage",259.95,284,14.1,SSD,1.1,4,4.2,other_brand,0,unknown
+9,"Jumper 11.6 inch Touch screen Laptop 6GB DDR3 128GB ROM, 360 Degree Convertible Tablet PC Windows 10 small laptop Intel Celeron Quad core processor Supports 256GB TF Card Expansion",266.66,340,11.6,EMMC,1.1,6,4.4,other_brand,0,unknown
+10,"Dell Inspiron 3501 15.6 Inch HD (1366 x 768) Laptop, Intel Core i3-1005G1 Processor (3.4 GHz), 4 GB RAM, 128 GB NVMe SSD, Waves MaxxAudio Pro, Windows 10 Home",449.0,60,15.6,Flash Memory Solid State,3.4,4,4.5,dell,0,i3
+11,"ASUS 15.6 Inch Touchscreen ChromeBook C523NA Full HD Laptop (Intel Pentium N4200 Processor, 4 GB RAM, 64GB eMMC, Chrome OS, Full HD Touchscreen)",297.99,2677,15.6,Others,2.5,4,4.4,asus,0,unknown
+12,"New Dell Inspiron 3000 15.6-inch FHD LED Backlight Laptop, AMD Ryzen 5 3500U Processor with Radeon Vega 8 Graphics, 8 GB RAM, 256GB SSD, Waves MaxxAudio Pro, Win 10, Black",495.0,60,15.6,Flash Memory Solid State,3.7,8,4.5,other_brand,1,amd
+13,"Lenovo IdeaPad 5i 15.6 Inch Laptop (Core i5, 8GB RAM, 256GB SSD, Windows 10 Home S Mode) - Graphite Grey",549.0,22,15.6,SSD,1.0,8,4.5,lenovo,0,i5
+14,"ASUS ZenBook Flip UX363EA Full HD 13.3"" Touchscreen Laptop (Intel i7-1165G7, 16GB RAM, 512GB PCIe SSD, Windows 10) - Includes LED NumberPad, Pine Grey",899.99,11,13.3,Flash Memory Solid State,2.8,16,3.9,asus,0,i7
+15,"ASUS Full HD VivoBook with Microsoft Office 365 E410MA 14 Inch Laptop (Intel Celeron N4020, 4 GB RAM, 64 GB eMMC, Full HD Screen, Windows 10 S) Includes 1 Year Microsoft Office 365",249.99,2661,14.0,HDD,1.1,4,4.0,asus,0,unknown
+16,"ASUS ZenBook UM425 Full HD 14"" Ultrabook Laptop (AMD Ryzen 7-4700U, 16GB RAM, 512GB SSD, Backlit Keyboard, Windows 10) Includes LED Numbered Trackpad",739.99,103,14.0,SSD,2.0,16,4.4,asus,0,amd
+17,"Lenovo IdeaPad 1i 11.6 Laptop - Intel Celeron N4020 Processor, 4GB RAM, 64GB Storage, Windows 10S, Platinum Grey + Office 365 Personal",199.99,6,11.6,SSD,4.7,4,3.2,lenovo,0,unknown
+18,"ASUS VivoBook M413IA 14 inch Full HD Laptop (AMD Ryzen 7-4700U, 8GB RAM, 512GB SSD, Wi-Fi 6, Windows 10), Black",599.99,729,14.0,SSD,2.0,8,4.5,asus,0,amd
+19,TECLAST F7 Plus 14 Inch Laptop 8GB RAM 256GB SSD FHD Intel Geminil Lake N4100 Quad Core Metal Body 64 Bit Windows 10 Computer PC Notebook Support 512 GB TF Card 1T M.2 SSD 1920x1080 IPS Display,399.99,221,14.1,SATA,2.4,8,3.8,other_brand,0,unknown
+20,Jumper 2-in-1 Touch screen Laptop With Microsoft 365 11.6 inch FHD Touchscreen Laptop 4GB DDR4 64GB eMMC Intel Celeron Quad Core CPU Windows 10 Tablet PC British Keyboard USB3.O,299.99,292,11.6,EMMC,1.1,4,4.1,other_brand,0,unknown
+21,"Microsoft Surface Laptop Go Ultra-Thin 12.4” Touchscreen Laptop (Platinum) - Intel 10th Gen Quad Core i5, 4GB RAM, 64GB eMMC, Windows 10 Home in S Mode, 2020 Edition",549.0,118,12.4,SSD,3.6,64,4.5,other_brand,0,i5
+22,"NBD Laptop 14 inch Windows 10 Netbook,4 GB RAM, 64 GB eMMC,Support 256GB TF card and 1TB SSD Expansion,Laptops equipped with Laptop Bag, Mouse, Mouse Pad & Headphone",265.0,4,14.0,SATA,1.1,4,5.0,other_brand,0,unknown
+23,"ASUS ZenBook UX434FQ 14 Inch Full HD Touchscreen Laptop (Intel Core i7, Nvidia MX350 Graphics, 16 GB RAM, 512 GB SSD, Windows 10) Includes Secondary Trackpad Screen",899.99,103,14.0,Flash Memory Solid State,1.8,16,4.4,asus,1,i7
+24,Jumper EZbook X1 11.6 Inch Laptop 6GB RAM 128GB eMMC Touch Screen 360 Degrees Tablet PC Ultrabook PC Windows 10 Intel Celeron Quad Core Processor Supports 256GB TF Card and 1TB SSD Extension,319.99,412,11.6,EMMC,1.1,6,4.3,other_brand,0,unknown
+25,"Microsoft Surface Laptop Go Ultra-Thin 12.4” Touchscreen Laptop (Platinum) - Intel 10th Gen Quad Core i5, 8GB RAM, 128GB SSD, Windows 10 Home in S Mode, 2020 Edition",629.0,118,12.45,Flash Memory Solid State,3.6,8,4.5,other_brand,0,i5
+26,"HP OMEN 15-en0008na 15.6 Inch Full HD, 144 Hz Gaming Laptop, AMD Ryzen 7 4800H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2060 (6 GB Dedicated) Graphics, Windows 10 Home - Mica Silver",1199.99,307,15.6,Flash Memory Solid State,2.9,16,4.6,hp,1,amd
+27,"Jumper Laptop with Microsoft Office 365, 13.3 inches FHD Computer PC 4GB RAM 64GB eMMC (Intel Celeron CPU, Windows 10, Dual-band WiFi, USB3.0) Support 256GB TF card and 1TB SSD Expansion",229.49,3425,13.3,EMMC,1.1,4,4.2,other_brand,0,unknown
+28,"ASUS VivoBook with Microsoft Office 365 A416MA 14 inch Full HD Laptop (Intel Pentium N5030, 4GB RAM, 128GB SSD, Windows 10) Includes 1 year Microsoft Office",349.99,135,14.0,SSD,1.1,4,4.1,asus,0,unknown
+29,GeoFlex 110 Convertible Laptop and Tablet 11.6-inch HD Touchscreen Windows 10 Intel Celeron 4GB RAM,199.0,2,11.6,EMMC,1.1,4,5.0,other_brand,0,unknown
+30,"ASUS VivoBook S413EA Full HD 14 Inch Metal Laptop (Intel Quad-Core i5-1135G7, 16 GB RAM, 512 GB SSD, Backlit Keyboard, Wi-Fi 6, Windows 10) Includes LED Number Trackpad",599.99,135,14.0,SSD,2.4,16,4.1,asus,0,i5
+31,"New Lenovo Quad Turbo Laptop, 20GB RAM, 500GB SSD, RX Vega 3 Graphics, Win 10 Pro, Office 2019",738.88,18,15.6,SSD,3.5,20,4.9,other_brand,1,unknown
+32,"Jumper Laptop with Microsoft Office 365, 13.3 inch FHD Windows 10 Computer 4GB RAM 64GB eMMC , Dual-band WiFi, USB3.0,PC Support 256GB TF card and 1TB SSD Expansion",269.99,64,13.3,EMMC,1.1,4,4.3,other_brand,0,unknown
+33,"ASUS TUF FA506 144Hz Full HD 15.6"" Gaming Laptop (AMD Ryzen 7-4800H, Nvidia GeForce RTX 2060 Graphics, 8GB RAM, 256GB PCIe SSD, Windows 10), Black",899.99,124,15.6,Flash Memory Solid State,2.9,8,4.4,asus,1,amd
+34,"ASUS 15.6"" ChromeBook C523NA (Intel Celeron N3350, 4 GB RAM, 64 GB eMMC, Chrome OS)",248.0,2677,15.6,Others,1.1,4,4.4,asus,0,unknown
+35,"ASUS VivoBook M712DA 17.3 inch Full HD Laptop (AMD Ryzen 3, 8GB RAM, 1TB HDD, Backlit Keyboard, Windows 10) Includes Wired Mouse and Carry Bag",469.99,84,17.3,HDD,2.6,8,4.3,asus,0,amd
+36,"Lenovo IdeaPad 3 17.3 Inch HD+ Laptop - (Intel Pentium Gold, 4 GB RAM, 1 TB HDD, Windows 10 S Mode) - Platinum Grey",449.99,80,17.3,Others,2.4,4,4.0,lenovo,0,unknown
+37,"HP EliteBook 840 G3 14 inches HD Ultrabook Core i5 6200U up to 2.8GHz, 8GB RAM, 256GB SSD, Wireless 11ac & Bluetooth 4.2, Windows 10 Pro - Plain non-HP OEM Packed - UK keyboard Layout (Renewed)",430.0,94,14.0,SSD,2.8,8,4.3,hp,0,i5
+38,"[Combo Pack] Simbans TangoTab 10 Inch Tablet with Keyboard 2-in-1 Laptop, 4GB RAM, 64 GB Storage, Android 10, Mini HDMI, Micro-USB - TX4L",159.94,239,10.1,Others,2.0,4,3.9,other_brand,0,unknown
+39,"LENOVO IdeaPad 1 14"" Laptop AMD 3020e 64GB eMMC 4GB RAM - Ice Blue",299.0,53,14.0,EMMC,1.2,4,4.3,lenovo,0,amd
+40,"Dell Inspiron 3501 15.6 Inch FHD (1920 x 1080) Laptop, Intel Core i5-1135G7 Processor (4.2 GHz), 8 GB RAM, 256 GB NVMe SSD, Waves MaxxAudio Pro, Windows 10 Home",599.0,60,15.6,Flash Memory Solid State,4.2,8,4.5,dell,0,i5
+41,"CHUWI HeroBook Pro Laptop, 14.1'' FHD (1920x1080) IPS Display, 8GB RAM, 256GB SSD, Intel Gemini Lake N4000 (UP to 2.6GHZ), Windows 10 OS, 4K Video Decoding, Support 1T SSD, 2.4G WiFi, HDMI",349.0,485,14.1,SSD,1.1,8,4.0,other_brand,0,unknown
+42,LincPlus P3 Laptop 14 inch Full HD Netbook Intel Celeron N3350 Processor 4GB RAM 64GB Storage Windows 10 in S Mode Notebook White,239.0,304,14.0,SATA,1.1,4,4.1,other_brand,0,unknown
+43,"CHUWI Hi10 X Tablet PC, 10.1 inch 1200*1920 IPS Touch Screen with Windows 10 OS (intel Gemini-Lake N4120) Quad-Cores, 6GB RAM+128GB ROM, Wifi,With Keyboard and Stylus",279.0,113,10.1,SATA,1.1,6,3.8,other_brand,0,unknown
+44,"Lenovo IdeaPad 5 15.6 Inch FHD Laptop - (AMD Ryzen 7, 8 GB RAM, 512 GB SSD, Windows 10 Home S Mode) - Platinum Grey",629.0,9,15.6,Flash Memory Solid State,2.0,8,5.0,lenovo,0,amd
+45,"15.6 inch Laptop (Intel Celeron 64-bit, 6GB DDR3 RAM, 128GB SSD, 10000mAH battery, HD webcam, Windows 10 OS Preinstalled, 1920 * 1080 FHD IPS display) Notebook",302.99,71,15.6,SSD,1.5,6,3.5,other_brand,0,unknown
+46,"Acer Swift 1 SF114-33 14 inch Laptop - (Intel Pentium N6000, 4GB RAM, 128GB SSD, Full HD Display, Windows 10 in S Mode, Silver)",399.99,370,14.0,Flash Memory Solid State,2.5,4,4.6,acer,0,unknown
+47,"New Quad Turbo Laptop, AMD RX Vega Graphics, HD SSD, 4GB Ram, Long Batt Life, Win 10 Pro, Office 2019 Pro Plus",398.88,2,14.0,SSD,3.6,4,5.0,other_brand,1,amd
+48,"Dell G3 15.6 inch FHD 120Hz 250nits WVA LED Backlit Narrow Border Display Gaming laptop, Intel Core i5-10300H, 8 GB RAM, 512 GB SSD, NVIDIA GTX 1650 4GB GDDR6, Nahimic 3D Audio, Win 10 Home",699.0,46,15.6,Flash Memory Solid State,4.5,8,4.2,dell,1,i5
+49,"ASUS VivoBook with Microsoft Office 365 A416JA Full HD 14 inch Laptop (Intel Core i3-1005G1, 4GB RAM, 128GB PCIe SSD, Windows 10) Includes 1 year Microsoft Office Subscription",399.99,135,14.0,SSD,1.2,4,4.1,asus,0,i3
+50,"Dell Inspiron 17 3000 series 17.3 Inch FHD (1920 x 1080) Anti-Glare LED-Backlit Laptop Intel Core i5-1035G1 10th Gen, 8GB RAM, 128GB SSD + 1TB HDD, nVidia MX230 2GB, Windows 10 Home, Silver",799.0,337,17.0,SSD,3.6,8,4.3,dell,1,i5
+51,"CHUWI HeroBook Pro+ Laptop, 13.3-inch 3K (3200x1800) IPS Display, Intel Celeron J3455 Processor, 8GB RAM, 128GB EMMC, Windows 10 Home, 4K Video Decoding, 2.4G/5G WiFi, BT5.0, HDMI, Gray",299.0,272,13.3,SSD,1.5,8,4.0,other_brand,0,unknown
+52,"Acer Aspire 5 A515-56 15.6 inch Laptop - (Intel Core i5-1135G7, 8GB RAM, 1TB SSD, Full HD Display, Windows 10, Black) - Amazon Exclusive",699.99,348,15.6,Flash Memory Solid State,4.2,8,4.4,acer,0,i5
+53,"CHUWI HeroBook Pro+ Laptop, 13.3-inch 3K (3200x1800) IPS Display, 8GB RAM, 128GB EMMC, Intel Celeron J3455 Processor, Windows 10 Home, 2.4G/5G WiFi, BT5.0, HDMI",279.0,485,13.3,SSD,1.5,8,4.0,other_brand,0,unknown
+54,"ASUS VivoBook X413JA 14 inch Full HD Laptop (Intel Core i5, 8GB RAM, 512GB SSD, Wi-Fi 6, Windows 10)",529.99,135,14.0,SSD,1.0,8,4.1,asus,0,i5
+55,"HP 250 G7 15.6-inch Laptop, Intel Core i7-1065G7, 32 GB RAM, 1 TB SSD, Windows 10 Pro",1179.0,7,15.6,SSD,3.9,32,4.1,hp,0,i7
+56,"11.6"" Full HD Windows 10 Laptop - 4GB RAM, 64GB Storage, Intel 64-bit USB 3.0, Supports 256GB tf-card",209.95,69,11.6,EMMC,2.4,4,3.8,other_brand,0,unknown
+57,Lenovo ThinkPad T440 Laptop PC - 14.1in i5-4300U 8GB 240GB SSD WiFi WebCam USB 3.0 Windows 10 Professional 64-bit (Renewed),355.0,486,14.1,SSD,1.9,8,4.3,lenovo,0,i5
+58,"Lenovo IdeaPad 1 14'' Laptop (AMD Processor, 4GB RAM, 64GB Storage, Windows 10S) - Platinum Grey",295.0,182,14.0,EMMC,2.8,4,4.6,lenovo,0,amd
+59,"Lenovo V145 A6 15.6-inch Laptop, AMD A6-9225, 8GB RAM, 1TB HDD , DVD+RW, Windows 10 Pro",459.0,35,15.6,Others,2.6,8,4.2,lenovo,0,amd
+60,"ASUS TUF Gaming FX506LI 15.6"" Full HD 144Hz Gaming Laptop (Intel i5-10300H, NVIDIA GeForce GTX 1650Ti, 8 GB RAM, 512 GB SSD, Windows 10), Black",729.99,124,15.6,Flash Memory Solid State,2.5,8,4.4,asus,1,i5
+61,"ASUS ZenBook UM433DA 14 inch Full HD 300nits Laptop (AMD Ryzen 7, 16GB RAM, 512GB SSD, Backlit Keyboard, Windows 10) Includes LED NumberPad",729.99,103,14.0,SSD,2.3,16,4.4,asus,0,amd
+62,"HP Pavilion 15-dk1007na 15.6 Inch Full HD Gaming Laptop - (Shadow Black) (Intel Core i5-10300H, NVIDIA GeForce GTX 1650 Ti (4 GB Dedicated) Graphics, 8 GB RAM, 512 GB SSD, Windows 10 Home)",799.0,455,15.6,Flash Memory Solid State,2.5,8,4.7,hp,1,i5
+63,"2020 15.6 inch notebook computer, IPS display, Intel 64-bit quad-core　celeron_j3455 processor, 8GB RAM, 256GB SSD, scalable 1TB SSD solid state drive, 10000mAh high battery life, Windows 10",348.0,116,15.6,SSD,1.5,8,3.8,other_brand,0,unknown
+64,"15.6 inch Laptop, IPS display, Intel 64-bit quad-core celeron_j3455 processor, 8GB RAM, 256GB SSD, scalable 1TB SSD solid state drive, Chocolate keyboard, Windows 10 Pro",329.99,16,15.6,SSD,1.5,6,3.5,other_brand,0,unknown
+65,"CHUWI GemiBook Ultra Thin Laptop, 13-inch FHD (2160x1440) 4K Video Display, Intel Celeron J4115 Processor, 12GB RAM, 256GB Storage, Windows 10 Home, Gray",399.0,69,13.0,SSD,1.8,12,4.4,other_brand,0,unknown
+66,"Microsoft Surface Laptop 3 Ultra-Thin 13” Touchscreen Laptop (Platinum) - Intel 10th Gen Quad Core i5, 8GB RAM, 128GB SSD, Windows 10 Home, 2019 Edition",770.0,353,13.0,SSD,2.1,8,4.6,other_brand,0,i5
+67,"13.3 Inch Laptop TECLAST F6S Windows 10 Laptop, 8GB +128GB Ultrabook, Intel N3350 CPU, 1920x1080 FHD Display, Support 4K Video, SSD&Micro SD Expansion, 18 mm Keyspacing, 2.4G+5G WiFi BT 4.2 USB 3.0",309.99,6,13.3,SSD,1.1,8,4.8,other_brand,0,unknown
+68,"Lenovo X230 (12in Laptop) [Intel Core i5 3320M 2.60GHz, 8GB Memory, 256GB SSD,with Windows 10 Professional (Renewed)",260.0,544,12.0,SSD,2.6,8,4.3,lenovo,0,i5
+69,"Dell Latitude E5440 14in Business Laptop Computer, Intel Core I5-4300U up to 2.9GHz, 8GB RAM, 256GB SSD, HDMI, DVDRW, 802.11ac WiFi plus BT, Windows 10 Professional (Renewed)",359.99,41,14.0,SSD,1.9,8,3.7,dell,0,i5
+70,"ASUS M509 15.6-inch Laptop, AMD Ryzen 3 3250U, 20 GB RAM, 256 GB SSD, Windows 10 Pro",599.0,8,15.6,SSD,3.5,20,4.5,asus,0,amd
+71,"Lenovo IdeaPad 1 11'' Laptop - AMD 3020e Processor, 4GB RAM, 64GB Storage, Windows 10S, Ice Blue",238.0,83,11.6,EMMC,1.2,4,4.5,lenovo,0,amd
+72,"ASUS ZenBook UX425EA 14 inch Full HD 300nits Laptop (Intel i7-1165G7, 16GB RAM, 512GB SSD, 32GB Intel Optane Memory, Backlit Keyboard, Windows 10) Includes USB-C to audio jack adapte",949.99,103,14.0,SSD,2.8,16,4.4,asus,0,i7
+73,"HP Stream 14-cm0045na 14 Inch Laptop - (Blue) (AMD A4-9125 Dual Core, 4 GB RAM, 64 GB eMMC, 1 TB OneDrive and Office 365, 1 Year Subscription Included, Windows 10 Home)",399.0,464,14.0,Others,2.3,4,4.4,hp,0,amd
+74,"New Lenovo Quad Turbo Laptop, 8GB RAM, 256GB SSD, RX Vega Graphics, Win 10 Pro, Office 2019",638.88,46,15.6,SSD,3.3,8,4.9,other_brand,1,unknown
+75,"HP EliteBook 820 G1 12-inch Ultrabook Laptop PC (Intel Core i5-4300U, 8GB RAM, 180GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit) (Renewed)",319.98,59,12.5,SSD,2.3,8,4.2,hp,0,i5
+76,"Lenovo V145 A6 15.6-inch Laptop, AMD A6-9225, 16GB RAM, 480GB SSD, DVD+RW, Windows 10 Pro",499.0,10,15.6,SSD,2.6,16,3.6,lenovo,0,amd
+77,"HP Envy 13-ba0010na 13.3-Inch Full HD Touch-screen Laptop (Natural Silver) (Intel Core i7-10510U, 16 GB RAM, 1 TB SSD, NVIDIA GeForce MX350 (2 GB Dedicated Graphics), Windows 10 Home)",1149.99,350,13.3,Flash Memory Solid State,1.8,16,4.4,hp,1,i7
+78,"Dell Inspiron 3501 15.6 Inch FHD (1920 x 1080) Laptop, Intel Core i5-1135G7 Processor (4.2 GHz), 8 GB RAM, 512 GB NVMe SSD, Waves MaxxAudio Pro, Windows 10 Home",649.0,60,15.6,Flash Memory Solid State,4.2,8,4.5,dell,0,i5
+79,"ASUS ZenBook Flip UM562IA 15.6 inch Full HD Touchscreen Laptop (AMD Ryzen 7-4700U, 16GB RAM, 512GB SSD, Backlit Keyboard, Windows 10) Includes Stylus Pen",899.99,11,15.6,SSD,2.0,16,3.9,asus,0,amd
+80,"Lenovo V15 ADA 15.6"" Laptop - Ryzen 3 2.6GHz CPU, 8GB RAM, Radeon, Windows 10",440.92,188,15.6,SSD,2.6,8,4.5,lenovo,0,unknown
+81,"HP 255 G7 (1B7K2ES#ABU) 15.6"" Full HD Laptop (Dark Ash Silver) (AMD Ryzen 5-3500U, 8GB RAM, 512GB SSD, Windows 10 Home)",655.98,85,15.6,SSD,2.6,8,4.6,hp,0,amd
+82,"Gigabyte AERO 15-YC 15.6"" Laptop, UHD, AMOLED, Intel Core i9-10980HK, 64GB DDR4, 2x1TB NVMe SSD, NVIDIA GeForce RTX 3080 Max-Q GDDR6 8GB, Windows 10 Pro",4199.0,1,15.6,SSD,5.3,64,2.0,other_brand,1,i9
+83,"ASUS VivoBook with Microsoft Office 365 - L410MA 14 inch Full HD Metal Laptop (Intel Pentium N5030, 4GB RAM, 64GB eMMC, Windows 10 S) - Includes LED NumberPad, Blue",337.94,209,14.0,EMMC,3.1,4,4.5,asus,0,unknown
+84,"Dell Inspiron 5000 14.0-inch FHD WVA LED-Backlit 2-in-1 Laptop, Intel Core i3-1115G4, 4 GB RAM, 256 GB SSD, MaxxAudio Pro, Windows 10 Home",549.0,170,14.0,SSD,4.1,4,4.4,dell,0,i3
+85,"Acer Swift 1 SF114-33 14 inch Laptop - (Intel Pentium N6000, 4GB RAM, 128GB SSD, Full HD Display, Windows 10 in S Mode, Gold)",399.99,370,14.0,Flash Memory Solid State,2.5,4,4.6,acer,0,unknown
+86,"Jumper 11.6 inch Touch screen Laptop 6GB DDR3 128GB ROM 360 Degree Touchscreen computer Windows 10 Intel Celeron Quad Core Processor,Tablet PC Supports 256GB TF Card Expansion",319.99,292,11.6,EMMC,1.1,6,4.1,other_brand,0,unknown
+87,"Alienware Area 51m R2 17.3 Inch FHD Gaming Laptop, Intel Core i9-10900K, 144 Hz 9 ms 300-nits Display, 16 GB RAM, 512 SSD + 1 TB HDD, NVIDIA GeForce RTX 2080 SUPER 8 GB GDDR6, Win 10 Home",3346.12,39,17.3,Flash Memory Solid State,5.3,16,4.2,other_brand,1,i9
+88,"HP 250 G7 15.6-inch Laptop, Intel Core i7-1065G7, 16 GB RAM, 1 TB SSD, Windows 10 Pro",990.03,2,15.6,SSD,3.9,16,5.0,hp,0,i7
+89,"Lenovo V14 14"" Ryzen 3 4GB 256GB W10H 1Y Dep",398.99,24,14.0,SSD,2.6,4,4.5,lenovo,0,unknown
+90,"New ASUS Quad Turbo Laptop, 4GB RAM, SSD, HD, Windows 10 Pro, Office 2019, V Long Battery Life",424.44,14,14.0,SSD,3.0,4,4.8,other_brand,0,unknown
+91,"CHUWI GemiBook Pro Laptop, 14-inch 2K IPS Display, 12GB RAM, 256GB SSD, Intel Celeron J4125 Processor, Windows 10 Home, Long-Lasting Battery, Fast Charge, Backlit Keyboard, Gray",439.0,69,14.0,SSD,2.7,8,4.4,other_brand,0,unknown
+92,"HP Stream 14s-fq0020na 14 Inch Laptop, White (AMD Athlon 3020e, 4 GB RAM, 64 GB eMMC, Windows 10 Home S) - Microsoft 365 (12 Month Free Subscription Included)",389.0,480,14.0,EMMC,1.2,4,4.6,hp,0,amd
+93,"2020 Thin and light notebook,15.6 inch Laptop, IPS display, Intel 64-bit quad-core celeron_j4115 processor, 8GB RAM, 256GB M.2 SSD,Chocolate keyboard, Windows 10",368.0,21,15.6,SSD,1.8,8,4.2,other_brand,0,unknown
+94,"HUAWEI MateBook X Pro 2020 Laptop, 13.9 Inch Full View Touchscreen Ultrabook, 10th Gen Intel i5 10210U , 16GB RAM, 512GB SSD, NVIDIA® GeForce® MX250, HUAWEI Share, Windows 10 Home, Space Grey",849.99,230,13.9,Flash Memory Solid State,4.2,16,4.6,other_brand,1,i5
+95,"Jumper EZbook X3 Laptop Windows 10 Thin and Light Laptop 13.3-Inch FHD PC Computer, Intel Quad-Core CPU 8GB RAM 128GB eMMC Supports up to 128GB TF Card and SSD Expansion",274.99,1081,13.3,EMMC,1.1,8,4.3,other_brand,0,unknown
+96,"Lenovo V145 15.6"" Laptop - AMD A6 2.6GHz CPU, 8GB RAM, 256GB SSD, DVD",384.97,25,15.6,SSD,2.6,8,3.8,lenovo,0,amd
+97,"Dell Inspiron 5000 14.0-inch FHD WVA LED-Backlit 2-in-1 Laptop, Intel Core i7-1165G7, 16 GB RAM, 512 GB SSD, MaxxAudio Pro, Windows 10 Home",905.06,170,14.0,SSD,4.7,16,4.4,dell,0,i7
+98,"15.6 inch Laptop (Intel J4105 64-bit, 8GB DDR4 RAM, 256GB SSD, 10000mAH battery, HD webcam, Windows 10 Pro OS Preinstalled, 1920 * 1080 FHD IPS display) with independent numeric keypad",355.99,54,15.6,SSD,1.5,8,3.0,other_brand,0,unknown
+99,"New-DELL Ryzen 5 Quad Turbo 3.7GHz!! Laptop, RX Vega 8 Graphics, 8GB RAM, 256GB SSD, Long Batt Life, Win 10 Pro, Office 2019 Pro Plus for life",618.88,6,15.6,SSD,3.7,8,5.0,other_brand,1,unknown
+100,"iProda Laptop 14 inch, Intel Core i3-6157U @ 2.4GHz Dual Core Processor FHD 1080*1920,8 GB RAM,256 GB SSD,Windows 10 Pro Notebook",379.99,11,14.0,SSD,2.4,8,3.1,other_brand,0,i3
+101,"2021 15.6-inch Laptop 8G + 256G Intel celeron J4115 high-Performance Quad-core CPU,wireless online 2PCS 4500mAh Work continuously for 6-8 Hours, WiFi, HDMI, Bluetooth 4.0, Windows 10 ( silvergray)",368.0,19,15.6,SSD,2.0,8,3.8,other_brand,0,unknown
+102,"Lenovo IdeaPad 1i 11.6 Laptop - Intel Celeron N4020 Processor, 4GB RAM, 64GB Storage, Windows 10S,Ice Blue + Office 365 Personal",249.0,6,11.6,SSD,4.7,4,3.2,lenovo,0,unknown
+103,"ASUS TUF Dash FX516PR 15.6 Inch Full HD 144 Hz Gaming Laptop (Intel i7-11370H, Nvidia GeForce RTX 3070 8 GB Graphics, 16 GB RAM (8 GB x 2), 512 GB SSD, Windows 10)",1298.99,124,15.6,SSD,3.3,16,4.4,asus,1,i7
+104,"Acer Aspire 5 A515-56 15.6 inch Laptop - (Intel Core i5-1135G7, 8GB RAM, 1TB SSD, Full HD Display, Windows 10, Silver) - Amazon Exclusive",699.99,348,15.6,Flash Memory Solid State,4.2,8,4.4,acer,0,i5
+105,"HP Chromebook 14-db0003na 14 Inch Laptop - (Grey) (AMD Dual Core A4, 4 GB RAM, 32 GB eMMC, 100 GB Cloud Storage with Google One (1 Year Subscription) Chrome OS)",239.99,1037,14.0,EMMC,2.2,4,4.5,hp,0,amd
+106,"New Apple MacBook Air with Apple M1 Chip (13-inch, 8GB RAM, 512GB SSD) - Gold (Latest Model)",1149.0,673,13.3,Flash Memory Solid State,3.1,8,4.8,other_brand,0,unknown
+107,"HP EliteBook 840 G1 14-inch Ultrabook (Intel Core i5 4th Gen, 8GB Memory, 256GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit) (Renewed)",385.0,715,14.0,SSD,1.6,8,4.1,hp,0,i5
+108,"13.3 inch Laptop (Intel Celeron J3455 64-bit, 6GB DDR3 RAM, 128GB SSD, 5G Wifi, 10000mAH battery, HD webcam, Windows 10 OS, 1366 * 768 FHD IPS display)",278.99,1,13.3,SSD,1.5,6,5.0,other_brand,0,unknown
+109,"Microsoft Surface Laptop Go Ultra-Thin 12.4” Touchscreen Laptop (Sandstone) - Intel 10th Gen Quad Core i5, 8GB RAM, 128GB SSD, Windows 10 Home in S Mode, 2020 Edition",649.0,118,12.45,Flash Memory Solid State,3.6,8,4.5,other_brand,0,i5
+110,"HUAWEI MateBook 13 2020 - 13 Inch Laptop with 2K FullView Multi-touch Screen - 10th Gen Intel Core i7-10510U, 16GB RAM, 512GB SSD, NVIDIA GeForce MX250, Windows 10 Home, Space Grey",874.99,230,13.0,Flash Memory Solid State,4.2,16,4.6,other_brand,1,i7
+111,"Lenovo IdeaPad 1 11.6 Inch Laptop - AMD Athlon Silver 3050e Processor, 4 GB RAM, 64 GB Storage, Windows 10S, Platinum Grey, Office 365 Personal",199.99,25,11.6,EMMC,1.2,4,4.6,lenovo,0,amd
+112,"HP 14"" EliteBook 840 G4 Ultrabook - Full HD (1920 x 1080p) - Intel i5-7200U CPU - 16GB DDR4 RAM - 256GB SSD - WebCam - WiFi - Windows 10 Professional Laptop PC (Renewed)",499.99,1,14.0,SSD,2.5,16,5.0,hp,0,i5
+113,"Acer Swift 3 SF313-53 13.5 inch Laptop - (Intel Core i5-1135G7, 8GB RAM, 512GB SSD, QHD 3:2 Display, Windows 10, Silver)",799.99,12,13.5,Flash Memory Solid State,4.2,8,3.6,acer,0,i5
+114,"LincPlus P2 14"" Slim Metal Laptop with Windows 10, Intel Celeron N3350 4GB RAM 64GB eMMC Storage Upgradeable by SSD, Full HD Fanless quiet Notebook with QWERTY UK Keyboard",259.99,151,14.0,SSD,2.4,4,4.2,other_brand,0,unknown
+115,"Dell XPS 13 7390 13.3 Inch UHD Laptop, Intel Core i7-10510U (10th Gen), 16 GB RAM, 512 GB SSD, InfinityEdge Touch Display, Fingerprint Reader, Killer Networking, Win 10 Home (White)",1373.32,37,13.3,Flash Memory Solid State,4.9,16,4.1,dell,0,i7
+116,"Asus A509JA Core i7 8GB 512GB SSD 15.6"" Win10 Home Laptop",699.95,16,15.6,SSD,1.3,8,4.3,asus,0,i7
+117,"HP Pavilion 15-ec1006na 15.6 Inch Full HD IPS Gaming Laptop - (Shadow Black) (AMD Ryzen 7 4800H, NVIDIA GeForce GTX 1660 Ti (6 GB Dedicated) Graphics, 8 GB RAM, 512 GB SSD, Windows 10 Home 64)",899.99,455,15.6,Flash Memory Solid State,2.9,8,4.7,hp,1,amd
+118,Laptop 15.6 inch (Intel Celeron J4115 CPU Quad Core 8GB RAM 128GB SSD 1920x1080 FHD Display Windows 10 Pro Pre-installed) Ultra Slim Notebook with Webcam WiFi Mini HDMI Independent Numeric Keypad Grey,339.99,8,15.6,SSD,1.8,8,4.1,other_brand,0,unknown
+119,"MSI GF63 Thin 10SCSR-655UK - 15.6 Inch Full HD 144 Hz Gaming Laptop, Intel Core i7-10750H, NVIDIA GTX 1650Ti, 8 GB RAM, 256 GB NVMe SSD, Windows 10",839.99,13,15.6,Flash Memory Solid State,2.6,8,4.2,other_brand,1,i7
+120,"Lenovo Legion 5 17.3 Inch FHD Gaming Laptop (Intel Core i5, 8 GB RAM, 512 GB SSD, NVIDIA GeForce GTX 1650, Windows 10 Home) – Phantom Black",899.99,2,17.3,Flash Memory Solid State,2.5,8,3.1,lenovo,1,i5
+121,"Lenovo IdeaPad 5 15.6 Inch FHD Laptop - (AMD Ryzen 7, 8 GB RAM, 512 GB SSD, Windows 10 Home S Mode) - Light Teal",629.99,9,15.6,Flash Memory Solid State,2.4,8,5.0,lenovo,0,amd
+122,"CHUWI HeroBook Plus 15.6'' Laptop, 12GB RAM 256GB SSD, Intel Quad Core Celeron J4125, 4K Video Decoding, Windows 10 Home, USB 3.0, HDMI, 2.4G/5G WiFi, Gigabit Ethernet, BT 5.1",439.0,84,15.6,SSD,2.0,12,4.1,other_brand,0,unknown
+123,"ASUS VivoBook 14 R424FA 14"" Laptop - Pentium 2.3GHz CPU, 4GB RAM, Windows 10",317.25,2,14.0,SSD,2.3,4,5.0,asus,0,unknown
+124,"Asus M509DA Full HD IPS Ryzen 3 8GB 256GB SSD 15.6"" Win10 Home Laptop",475.0,1,15.6,SSD,2.6,8,5.0,asus,0,unknown
+125,"15.6"" ASUS A516MA Full HD Laptop Backlit Keyboard Intel Pentium Quad Core CPU,8GB DDR4 256GB M.2 NVMe SSD Win10 Pro, 3 X USB Ports",389.59,1,15.6,SSD,3.1,8,4.0,other_brand,0,unknown
+126,"New Apple MacBook Air with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD) - Gold (Latest Model)",939.0,673,13.3,Flash Memory Solid State,3.1,8,4.8,other_brand,0,unknown
+127,"HP 250 G7 15.6"" Full HD Laptop Intel Core i5-1035G1 8GB RAM 256GB SSD Windows 10 Home - 15L03ES#ABU",599.97,4,15.6,SSD,1.0,8,3.6,hp,0,i5
+128,"Lenovo IdeaPad Slim 1 14 Inch HD Laptop - (AMD A4, 4GB RAM, 64GB eMMC, Windows 10 Home S Mode) - Platinum Grey",299.0,506,14.0,EMMC,1.5,4,4.0,lenovo,0,amd
+129,"Lenovo Yoga Slim 7 14 Inch FHD Laptop - (AMD Ryzen 5, 8 GB RAM, 256 GB SSD, Windows 10) – Orchid",599.0,71,14.0,Flash Memory Solid State,2.3,8,4.3,lenovo,0,amd
+130,"HUAWEI MateBook 14 2020 - 14 Inch Laptop with 2K FullView Display, AMD Ryzen 5 4600H Ultrabook, 16 GB RAM, 512 GB PCIe SSD, Windows 10 Home, Huawei Share, Fingerprint Unlock, Space Grey",849.99,230,14.0,SSD,2.4,512,4.6,other_brand,0,amd
+131,"Microsoft Surface Laptop 3 Ultra-Thin 15” Touchscreen Laptop (Platinum) - AMD Ryzen 5 3580U, 16GB RAM, 256GB SSD, Windows 10 Home, 2019 Edition",1348.46,353,15.0,SSD,2.1,16,4.6,other_brand,0,amd
+132,"Lenovo Yoga Slim 7 14 Inch FHD Laptop - (Intel Core i7 11th gen, 8 GB RAM, 512 GB SSD, Windows 10 Home) – Slate Grey",799.99,71,14.0,SSD,4.7,8,4.3,lenovo,0,i7
+133,"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6"" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, P/N PH315-53-72XD",1249.0,2722,15.6,SSD,2.6,16,4.7,acer,1,i7
+134,"Lenovo Ideapad 3 15.6"" Full HD Laptop (Business Black) (AMD 3020e, 4GB RAM, 128GB SSD, Microsoft 365 Personal 1-Year, Windows 10 S)",422.94,9,15.6,SSD,1.2,4,4.3,lenovo,0,amd
+135,"HP OMEN 17-cb1002na 17.3 Inch Full HD, 144 Hz Gaming Laptop, Intel Core i7-10750H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2070 Graphics (8 GB Dedicated) Graphics, Windows 10 Home - Black",1699.99,307,17.3,Others,2.6,16,4.6,hp,1,i7
+136,"ASUS ZenBook UX425EA 14 inch Full HD 300nits Laptop (Intel i5-1135G7, 16GB RAM, 512GB SSD, 32GB Intel Optane Memory, Backlit Keyboard, Windows 10) Includes USB-C to audio jack adapter",849.99,103,14.0,SSD,2.4,16,4.4,asus,0,i5
+137,"New Lenovo Quad Turbo Laptop, 4GB RAM, 128GB SSD, HD, Win 10 Pro, Office 2019, Wi-Fi, Bluetooth",524.44,27,15.6,SSD,2.6,4,4.7,other_brand,0,unknown
+138,"AWOW 11.6 Inch Laptop Computer Touchscreen 2 in 1 Laptop PC, Windows 10 in S Mode Intel Celeron N3450 8GB RAM 256GB SSD with Stylus Pen, 1920 x 1080 FHD IPS, 1.4a HDMI, BT 4.2, USB3.0, Type-C(Blue)",369.99,72,11.6,SSD,1.1,8,4.3,other_brand,0,unknown
+139,Lenovo ThinkPad T430 Core i5 16GB 240GB SSD DVD WiFi WebCam USB 3.0 Windows 10 Professional 64-bit Laptop PC (Renewed),335.0,192,14.0,SSD,2.5,16,4.4,lenovo,0,i5
+140,Samsung Galaxy Book S 13.3 Inch 256 GB Intel Core with Intel Hybrid Technology Laptop - Mercury Grey (UK Version),799.0,84,13.3,Flash Memory Solid State,1.4,256,4.4,other_brand,0,unknown
+141,"Lenovo Yoga Slim 7 14 Inch FHD Laptop - (Intel Core i5 11th gen, 8 GB RAM, 256 GB SSD, Windows 10 Home) – Slate Grey",649.99,71,14.0,SSD,4.2,8,4.3,lenovo,0,i5
+142,"ASUS VivoBook with Microsoft Office 365 - E410MA Full HD 14 inch Laptop (Intel Celeron N4020, 4GB RAM, 64GB eMMC, Windows 10 S) - Includes LED NumberPad",249.99,1,14.0,EMMC,2.8,4,5.0,asus,0,unknown
+143,"Dell New XPS 17 9700 17.0"" UHD+ InfinityEdge Touch Anti-Reflecitve 500-Nit Laptop, Intel Core i7-10750H, 16 GB RAM, 1 TB SSD, NVIDIA GTX 1650Ti, Fingerprint Reader, Killer Wi-Fi6, Win 10 Home",2599.0,82,17.0,Flash Memory Solid State,5.0,16,4.1,dell,1,i7
+144,HP ELITEBOOK x360 1030 G2 13.3in Touchscreen LAPTOP INTEL CORE i5 7th GEN 2.5GHZ WEBCAM 8GB RAM 256GB SSD WINDOWS 10 PRO 64BIT (Renewed),547.04,27,13.3,SSD,2.5,8,4.0,hp,0,i5
+145,"Acer Chromebook 314 CB314-H - (Intel Celeron N4000, 4GB RAM, 32GB eMMC, 14 inch HD display, Chrome OS, Silver)",229.0,396,14.0,Flash Memory Solid State,1.1,4,4.5,acer,0,unknown
+146,"Dell G5 15.6 inch FHD Gaming laptop, Intel Core i7-10750H (10th Gen), 144Hz 300 nits IPS Anti-Glare Narrow Border Display, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2060 with 6GB GDDR6, Win 10 Home",999.0,46,15.6,Flash Memory Solid State,5.0,16,4.2,dell,1,i7
+147,"CHUWI 14-Inch Laptop, 16GB RAM, 512GB SSD, GemiBook Pro Computer-All Metal Body, 2K (2160x1440) IPS Dispaly, Intel Celeron J4125 Processor, Windows 10 Home, 2.4G/5G WiFi, BT 5.1, Backlit Keyboard",499.0,114,14.0,SSD,2.0,16,4.3,other_brand,0,unknown
+148,"FANCY CHERRY 10 inch 8GB Laptop Netbook Notebook PC Ultrabook Android HDMI Dual Core WIFI Camera, Accessories Laptop Bag + Mouse + Mouse Pad + Earphone (Black)",119.0,246,10.0,SSD,1.5,1,3.0,other_brand,0,unknown
+149,"HP 250 G7 15.6-inch Laptop, Intel Core i5-1035G1, 16 GB RAM, 512 GB SSD, No Optical, Windows 10 Pro",799.0,4,15.6,SSD,3.6,16,5.0,hp,0,i5
+150,"ASUS TUF Dash FX516PM 15.6 Inch Full HD 144 Hz Gaming Laptop (Intel i7-11370H, Nvidia GeForce RTX 3060, 8 GB RAM, 512 GB SSD, 4-Zone RGB Keyboard, Windows 10)",998.98,124,15.6,SSD,3.3,8,4.4,asus,1,i7
+151,"CHUWI HeroBook Pro Laptop, 14.1"" FHD (1920x1080) IPS Display, 4K Video Decoding, Intel N4000 Processor, Windows 10 Home, 8GB LPDDR4, 256GB SSD, WiFi 2.4G, BT 4.0, USB 3.0, HDMI",349.0,272,14.1,SSD,1.1,8,4.0,other_brand,0,unknown
+152,"Lenovo IdeaPad Creator 5 15.6 Inch FHD Laptop - (Intel Core i5, 8GB RAM, 256 GB SSD, GTX 1650 Graphics, Windows 10 Home) - Dark Moss",899.99,9,15.6,Flash Memory Solid State,2.5,8,5.0,lenovo,1,i5
+153,"Asus M509DA Ryzen 7 8GB 512GB SSD 15.6"" Win10 Home Laptop",699.0,6,15.6,SSD,2.3,8,4.2,asus,0,unknown
+154,"Jumper EZbook X3 laptop windows 10 Thin and Light Laptop 13.3 inch HD PC computer, Intel Apollo Lake N3350 CPU 6GB RAM 64GB eMMC Supports up to 256GB TF Card and SSD extension",243.99,3425,13.3,EMMC,2.0,6,4.2,other_brand,0,unknown
+155,"CHUWI Hi10X Convertible Laptop, Intel Celeron N4120, 10.1"" FHD (1920x1200) Touch, 6GB LPDDR4, 128GB eMMC, Windows 10 Home, 4K Video Decoding, 2.4G/5G WiFi, 2-in-1 Laptop Include Keyboard and Stylus",279.0,173,10.1,SSD,1.1,6,4.1,other_brand,0,unknown
+156,"HP Chromebook X360 14c-ca0004na 14 Inch Full HD Touch-screen Display, (Silver) (10th Generation Intel Core i3-10110U, 8 GB RAM, 128 GB eMMC, 100 GB Google One, 1 Year Subscription Included)",549.99,1037,14.0,EMMC,2.1,8,4.5,hp,0,i3
+157,"2021 15.6-inch Laptop 6G + 256G Intel celeron J3455 high-Performance Quad-core CPU, 2PCS 4500mAh can Work continuously for 6-8 Hours, WiFi, HDMI, Bluetooth 4.0, Windows 10 (Silver 6G+256G)",368.0,10,15.6,SSD,2.0,6,3.6,other_brand,0,unknown
+158,"Lenovo Ideapad Slim 1-11ADA05 (82GV001SUK) 11.6"" Laptop (Ice Blue) (AMD 3020e, 4GB RAM, 64GB eMMC, Windows 10 S, Microsoft 365 Personal 1-Year Subscription)",218.0,6,11.6,Others,1.2,4,4.4,lenovo,0,amd
+159,"15.6 inch Laptop (Intel Celeron 64-bit, 8GB DDR3 RAM, 128GB SSD, 10000mAH battery, HD webcam, Windows 10 Pro OS Preinstalled, 1920 * 1080 FHD IPS display) Notebook",303.99,64,15.6,SSD,1.5,8,3.1,other_brand,0,unknown
+160,"Dell New XPS 13 9310 13.3 Inch Laptop, Intel Core i7-1185G7 Processor (4.8 GHz), 16:10 FHD+ (1920 x 1200) InfinityEdge 500 Nit Display, 16 GB RAM, 512 GB NVMe SSD, Fingerprint Reader, Windows 10 Home",1599.0,35,13.4,Flash Memory Solid State,4.8,16,4.2,dell,0,i7
+161,"ASUS VivoBook with Microsoft Office 365 E410MA 14 Inch Laptop (Intel Celeron N4020, 4 GB RAM, 64 GB eMMC, Windows 10 S), White",249.99,2661,14.0,Flash Memory Solid State,1.1,4,4.0,asus,0,unknown
+162,TECLAST F6 Laptop Windows 10 Thin and Light Laptop 13.3 Inch 1920x1080 FHD IPS PC Computer Intel N3350 CPU 1.10-2.40GHz 8GB+128GB SSD Supports up to 256GB TF Card and SSD Expansion,309.99,9,13.3,SSD,1.1,8,3.8,other_brand,0,unknown
+163,"ASUS M509 15.6-inch Laptop, AMD Ryzen 3 3250U, 36 GB RAM, 2 TB SSD, Windows 10 Pro",999.0,1,15.6,SSD,3.5,36,5.0,asus,0,amd
+164,"AWOW 11.6 Inch Laptop Computer Touchscreen 2 in 1 Laptop PC, Windows 10 in S Mode Intel Celeron N3450 8GB RAM 256GB SSD with Stylus Pen, 1920 x 1080 FHD IPS, 1.4a HDMI, BT 4.2, USB3.0, Type-C(Purple)",369.99,72,11.6,SSD,1.1,8,4.3,other_brand,0,unknown
+165,Lenovo ThinkPad X250 12.5in Ultrabook Core i5-5300U 8GB 256GB SSD Windows 10 Professional 64-bit (Renewed),269.99,39,12.5,SSD,2.3,8,4.4,lenovo,0,i5
+166,"MSI GF63 Thin 10SCXR-426 - 15.6 Inch Full HD Gaming Laptop, Intel Core i5-10300H, NVIDIA GeForce GTX 1650, 8 GB RAM, 256 GB NVMe SSD, Windows 10 Home",697.97,68,15.6,SSD,2.5,8,4.5,other_brand,1,i5
+167,"Laptop 13.3-inch (IPS display, Intel 64-bit quad-core celeron j3455 processor, 6GB RAM, 128GB SSD,Windows 10 , USB 3.0, Dual Band Wifi, support 128GB Micro SD and 1TB SSD)Notebook computer",239.99,443,14.1,SSD,1.5,4,3.5,other_brand,0,unknown
+168,TOPOSH Windows 10 Laptop 10.1 Inch PC Mini Notebook Computer 2GB RAM+32GB SSD Intel Atom X5-Z8350 Quad-Core Graphics 1.92 GHz US Keyboard - Black,199.99,135,10.1,SSD,1.92,2,3.8,other_brand,1,unknown
+169,"Jumper Touch Screen Laptop with Microsoft Office 365 11.6Inch FHD 2in1Laptop 4GB RAM 64GB eMMC,Intel Quad CPU,Metal Material,Windows 10 Home,TF Card 256GB, SSD Supports up to 512GB Expansion.",299.99,236,11.6,Flash Memory Solid State,2.2,4,4.3,other_brand,0,unknown
+170,"HP Envy 15-ep0011na 15.6-inch Full HD Touchscreen Laptop Natural Silver - Intel Core i7-10750H, NVIDIA GeForce GTX 1660 Ti, 6 GB Dedicated Graphics, 16 GB RAM, 512 GB SSD, Windows 10 Home",1499.99,350,15.6,Flash Memory Solid State,2.6,16,4.4,hp,1,i7
+171,"Microsoft Surface Laptop Go Ultra-Thin 12.4” Touchscreen Laptop (Ice Blue) - Intel 10th Gen Quad Core i5, 8GB RAM, 128GB SSD, Windows 10 Home in S Mode, 2020 Edition",625.0,118,12.45,Flash Memory Solid State,3.6,8,4.5,other_brand,0,i5
+172,"iSTYLE 10.1 inch Windows 10 Ultra Thin Full HD Laptop 2GB RAM 32GB Storage [Atom 1.44Ghz Quad Core USB 3.0 WiFi HDMI Bluetooth] Laptop Accessories,Laptop Bag  Mouse  Mouse Pad  Headphone (Blue)",152.99,102,10.1,Others,1.44,2,3.8,other_brand,0,unknown
+173,"2021 15.6-inch laptop 8G + 256G Intel celeron J3455 high-performance quad-core CPU, 2PCS 4500mAh can work continuously for 6-8 hours, WIFI, HDMI, Bluetooth 4.0, Windows 10 (Silver 8G+256G)",368.0,6,15.6,SSD,2.0,8,3.3,other_brand,0,unknown
+174,"Dell Latitude E7470 14 Inch Laptop Black - Intel Core i5 2.4GHz, 16GB RAM, 256GB SSD, Intel HD Graphics 520, Windows 10 Pro (Renewed)",465.0,54,15.4,SSD,2.4,16,4.3,dell,1,i5
+175,"Lenovo IdeaPad 3 14 Inch FHD Laptop - (Intel Pentium Gold, 4 GB RAM, 128 GB SSD, Windows 10 S Mode) - Cherry Red",329.99,9,14.0,Flash Memory Solid State,2.4,4,4.8,lenovo,0,unknown
+176,Jumper Laptop 8GB DDR4 128GB eMMC with 13.3 inch FHD 1080P Ultrabook PC Apollo Lake N3450 Quad Core Processor Windows 10 Computer PC Support 1TB M.2 SSD and 256GB TF card Expansion,275.99,3425,13.3,EMMC,1.0,8,4.2,other_brand,0,unknown
+177,"2020 15.6-inch Laptop 8G + 128G Intel celeron J3455 high-Performance Quad-core CPU, 2PCS 4500mAh can Work continuously for 6-8 Hours, WiFi, HDMI, Bluetooth 4.0, Windows 10 (Silver 8G+128G)",287.3,37,15.6,SSD,2.0,8,3.5,other_brand,0,unknown
+178,"Acer Chromebook Spin 513 CP513-1H - (Qualcomm SC7180, 4GB RAM, 64GB eMMC, 13.3 inch Full HD Touchscreen Display, Chrome OS, Silver)",399.0,1,13.3,EMMC,2.4,4,4.0,acer,0,unknown
+179,Windows 10 Lenovo T540 i5-4300U Laptop PC - 8GB DDR3 - 240GB SSD - Webcam - Wi-Fi (Renewed),309.95,3,15.6,SSD,2.6,8,3.4,other_brand,0,i5
+180,"CHUWI Aerobook Ultrabook Laptop, 13.3-inch Windows 10 Notebook PC Intel Core M3 6Y30 8GB RAM 256GB SSD 1920 * 1080 Laptop with Backlit Keyboard Metal Cover Notebook",359.0,119,13.3,SSD,0.9,8,3.8,other_brand,0,unknown
+181,"HP Stream 11-ak0008na 11.6 Inch Laptop (Rose Pink) (Intel Celeron N4000, 2 GB RAM, 32 GB eMMC, Office 365 and 1 TB OneDrive Cloud Storage, 1 Year Subscription Included, Windows 10 Home)",237.9,380,11.6,EMMC,1.1,2,4.2,hp,0,unknown
+182,"Dell G5 15.6 inch FHD Gaming laptop, Intel Core i7-10750H (10th Gen), 144Hz 300nits IPS Display, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 2070 Max-Q Design with 8GB GDDR6, Killer Wi-Fi 6, Win 10",1199.0,46,15.6,Flash Memory Solid State,5.0,16,4.2,dell,1,i7
+183,"ASUS VivoBook X712JA Full HD 17.3"" Laptop (Intel i5-1035G1, 8GB RAM, 128GB SSD + 1TB HDD, Windows 10)",649.99,84,17.3,HDD,1.0,8,4.3,asus,0,i5
+184,"Lenovo Yoga Slim 7 14 Inch FHD Laptop - (AMD Ryzen 7, 8 GB RAM, 512 GB SSD, Windows 10) – Orchid",749.0,71,14.0,Flash Memory Solid State,2.0,8,4.3,lenovo,0,amd
+185,"Lenovo Chromebook S345 14 Inch FHD Laptop - (AMD A4, 4GB RAM, 32GB eMMC, Chrome OS) - Mineral Grey",249.0,364,14.0,EMMC,1.6,4,4.5,lenovo,0,amd
+186,"HP EliteBook 840 G2 14-inch Ultrabook Laptop PC (Intel Core i5-5200U, 8GB RAM, 512GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit)(Renewed)",489.9,715,14.0,SSD,2.2,8,4.1,hp,0,i5
+187,"CHUWI AeroBook Pro Laptop, 13.3-inch Windows 10 Notebook PC Intel Core M3 8100Y 8GB RAM 256GB SSD 1920 * 1080 Laptop, Dual Wifi, BT4.2 with Backlit Keyboard Metal Cover Ultrabook",399.0,24,13.3,SSD,1.1,8,4.3,other_brand,0,unknown
+188,"CHUWI Laptop, 13” Full HD IPS Display, Intel Core i3-6157U Processor, 8GB RAM 256GB SSD, Windows 10 Home",469.0,24,13.0,SSD,2.4,8,4.3,other_brand,0,i3
+189,"15.6 inch Laptop (Intel Celeron 64-bit, 8GB DDR3 RAM, 256GB SSD, 10000mAH battery, HD webcam, Windows 10 OS Preinstalled, 1920 * 1080 FHD IPS display) Notebook",318.99,7,15.6,SSD,1.5,8,3.3,other_brand,0,unknown
+190,"Lenovo IdeaPad Flex 3 11.6 Inch HD 2-in-1 Laptop - (Intel Celeron, 4 GB RAM, 64 GB eMMC, Chrome OS) - Almond",319.99,75,11.6,EMMC,1.1,4,4.5,lenovo,0,unknown
+191,"ASUS VivoBook M413DA Full HD 14 Inch Laptop (AMD Ryzen 5, 8 GB RAM, 512 GB SSD, Windows 10) Includes reversible USB 3.2 Type-C port",549.99,729,14.0,Flash Memory Solid State,3.7,8,4.5,asus,0,amd
+192,"New Apple MacBook Air with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD) - Silver (Latest Model)",916.9,673,13.3,Flash Memory Solid State,3.1,8,4.8,other_brand,0,unknown
+193,"Lenovo V14-ADA 14-inch Laptop, AMD Ryzen 3 3250U, 4 GB RAM, 256 GB SSD, Windows 10 Home",399.0,13,14.0,SSD,3.5,4,3.9,lenovo,0,amd
+194,"Lenovo ThinkBook 15 IIL (20SM000FUK) 15.6"" Full HD Laptop (Mineral Grey) (Intel Core i5-1035G1, 8GB RAM, 256GB SSD, Windows 10 Pro)",756.74,3,15.6,SSD,1.0,8,4.6,lenovo,0,i5
+195,"Microsoft Surface GO 2 10 Inch 2-in-1 Laptop and Tablet PC, Silver (Intel Pentium Gold Processor 4425Y, 4GB RAM, 64GB eMMC, Windows 10, 2020 Model), with Surface Go 2 Type Cover, Black",472.77,397,10.0,Flash Memory Solid State,1.7,4,4.7,other_brand,0,unknown
+196,"DELL Chromebook 3120 Black 11.6"" 1366 x 768 pixels Intel Celeron N2840 2GB RAM DDR3L 16GB eMMC SSD Chrome OS (Renewed)",170.0,84,11.0,SSD,2.16,4,4.0,dell,0,unknown
+197,"CHUWI 2-in-1 Laptop, 11.6"" FHD Touch Display, 4K Video Decoding, Intel N4120 UBook Tablet, Keyboard and Pen Included, Windows 10 Home, 8GB RAM 256GB SSD, Long-Lasting Battery",369.0,184,11.6,SSD,1.1,8,4.2,other_brand,0,unknown
+198,"Lenovo Yoga Slim 7 14 Inch FHD Laptop - (Intel Core i7 11th gen, 8 GB RAM, 512 GB SSD, Windows 10 Home) – Orchid",799.99,71,14.0,SSD,4.7,8,4.3,lenovo,0,i7
+199,"New Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD) - Space Grey (Latest Model)",1152.0,774,13.3,Flash Memory Solid State,3.1,8,4.7,other_brand,0,unknown
+200,"Lenovo IdeaPad 1 11'' Laptop (AMD Processor, 4GB RAM, 64GB Storage, Windows 10S) - Platinum Grey",228.89,185,11.6,EMMC,2.8,4,4.4,lenovo,0,amd
+201,"HP 14"" EliteBook 840 G3 Ultrabook - Full HD (1920x1080) Core i5-6300U 16GB DDR4 256GB SSD WebCam WiFi Windows 10 Professional 64-bit Laptop PC (Renewed)",499.0,715,14.0,SSD,2.4,16,4.1,hp,0,i5
+202,BLACK HP CHROMEBOOK 14in G1 INTEL 1.4GHZ 4GB RAM 16GB SSD HD WEBCAM CHROME OS (Renewed),199.99,384,14.0,SSD,1.4,4,4.2,hp,0,unknown
+203,TECLAST F7 Air 14.1 Inch Laptop 8GB RAM 256GB ROM FHD 1920x1080 Intel N4120 Quad Core 64 Bit 1.1GHz-2.6GHz Windows 10 Computer PC Notebook BT 4.0 Dual WiFi 4250 mWh,449.98,13,14.1,SSD,2.6,8,3.9,other_brand,0,unknown
+204,"HP Stream 14-cm0042na 14 Inch Laptop, White (AMD A4-9125 Dual Core, 4 GB RAM, 64 GB eMMC, 1 TB OneDrive and Office 365, 1 Year Subscription Included, Windows 10 Home)",329.0,700,14.0,EMMC,2.3,4,4.4,hp,0,amd
+205,"TECLAST F7 Plus 14.1 Inch Laptop, 8GB+256GB SSD Windows 10 Laptop, Intel N4100 Quad Core 2.4GHz, 1920x1080 Full HD IPS Display, 4K Video Decoding, 7mm Ultra Thin Metal Body, Backlit Keyboard Dual WiFi",399.99,44,14.1,SATA,1.1,8,4.1,other_brand,0,unknown
+206,"HP Spectre x360 15-eb0003na 15.6 Inch 4K Convertible Laptop with Stylus, Nightfall Black (Intel Core i7-10750H, 16GB RAM, 512GB SSD,NVIDIA GeForce GTX 1650 Graphics, 4GB Dedicated, Windows 10 Home)",1699.99,40,15.6,Flash Memory Solid State,2.6,16,4.1,hp,1,i7
+207,"HP Pavilion 15-dk1019na 15.6 Inch Full HD Gaming Laptop - (Shadow Black) (Intel Core i7-10750H, NVIDIA GeForce GTX 1660 Ti (6 GB Dedicated) Graphics, 8 GB RAM, 512 GB SSD, Windows 10 Home)",999.99,455,15.6,Flash Memory Solid State,2.6,8,4.7,hp,1,i7
+208,"CHUWI 14-Inch Laptop, 12GB RAM, 256GB SSD, GemiBook Pro Computer-All Metal Body, 2K (2160x1440) IPS Dispaly, Intel Celeron J4125 Processor, Windows 10 Home, 2.4G/5G WiFi, BT 5.1, Backlit Keyboard",439.0,114,14.0,SSD,2.0,12,4.3,other_brand,0,unknown
+209,"ASUS A516MA 15.6"" FHD Intel Pentium Silver N5030 20GB DDR4 512GB NVMe SSD Intel UHD Graphics Backlit KB WIN 10 PRO",599.0,4,15.6,SSD,1.1,20,3.8,asus,1,unknown
+210,"Lenovo ThinkPad X270 12.5"" Ultrabook - Intel Core i5-6300U 2.4GHz 8GB DDR4 256GB SSD HDMI WiFi WebCam Windows 10 Pro 64-bit (Renewed)",285.0,8,12.5,SSD,2.4,8,4.8,lenovo,0,i5
+211,"KUU K2s 14.1 inch Laptop, Intel Celeron J4115 Quad Core Up to 2.5Ghz, 8GB RAM 256GB SSD Full-size ultra-narrow bezel keyboard with fingerprint unlock keyboard backlight (8GB+256GB SSD)",339.99,113,14.1,SSD,1.8,8,3.7,other_brand,0,unknown
+212,"Lenovo T430 (14in Laptop) [Intel Core i5 3320M 2.60GHz, 8GB Memory, 240GB SSD, DVDRW] with Windows 10 Professional (Renewed)",323.99,217,14.0,SSD,2.6,8,4.4,lenovo,0,i5
+213,"HP Stream 11-ak0006na 11.6 Inch Laptop, (White) (Intel Celeron N4000, 2 GB RAM, 32 GB eMMC, Microsoft 365 and 1 TB OneDrive Cloud Storage, 1 Year Subscription Included, Windows 10 Home)",228.99,91,11.6,Others,1.1,2,4.1,hp,0,unknown
+214,"Lenovo Legion 5 15.6 Inch FHD Gaming Laptop (AMD Ryzen 5, 8 GB RAM, 256 GB SSD, NVIDIA GeForce GTX 1650, Windows 10 Home) – Phantom Black, 82B50042UK",749.0,63,15.6,Flash Memory Solid State,3.0,8,4.4,lenovo,1,amd
+215,"ASUS 11.6 inch VivoBook with Microsoft Office 365 - E210 11.6 inch Laptop (Intel Celeron N4020, 4GB RAM, 64GB eMMC, Windows 10) - Includes LED-NumberPad, Blue",229.0,139,11.6,Flash Memory Solid State,1.1,4,4.3,asus,0,unknown
+216,"Lenovo IdeaPad Slim 1 11 Inch (11.6 Inch) HD Laptop - (AMD A4, 4GB RAM, 64GB eMMC, Windows 10 Home S Mode) - Platinum Grey",226.09,506,11.6,EMMC,1.5,4,4.0,lenovo,0,amd
+217,"Dell G7 17.3 inch FHD 144Hz 300 nits IPS Anti-Glare LED Backlit Narrow Border Display Gaming laptop, Intel Core i7-10750H, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2060 6GB GDDR6, Win 10 Home",1469.0,13,17.3,Flash Memory Solid State,5.0,16,4.1,dell,1,i7
+218,"CHUWI GemiBook Slim Laptop, 13-Inch 2K(2160x1440) IPS Display, 12GB RAM, 256GB SSD, Intel Celeron J4115 Processor, 4K Video Decoding, 2.4G/5G WiFi, Windows 10 Home, Backlit Keyboard, Gray",399.0,12,13.0,SSD,1.8,12,3.9,other_brand,0,unknown
+219,"CHUWI 13.3-inch FHD (1920x1080) IPS Display, Intel Core M3-8100Y Processor, 8GB Memory, 256GB SSD, Windows 10 Home, HDMI, Bluetooth, Backlit Keyboard, Dual WiFi, 2 x USB 3.0, 1 Year Warranty",399.0,85,13.3,SSD,1.1,8,4.3,other_brand,0,unknown
+220,"CHUWI SurPad 10.1'' 2-in-1 Laptop, 4GB RAM 128GB UFS, 8 Cores, MT6771V Processor 2.0GHZ, FHD Touch Screen (1920x1200), 2.4G/5G WiFi, BT5.0, Type-C, Android 10 System, Include Keyboard",269.0,14,10.1,SSD,2.0,4,4.3,other_brand,0,unknown
+221,"HP EliteBook 840 G2 14-inch Ultrabook Laptop PC (Intel Core i5-5200U, 8GB RAM, 256GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit)(Renewed)",409.99,715,14.0,SSD,2.2,8,4.1,hp,0,i5
+222,"HP 250 G7 15.6-inch Laptop, Intel Core i7-1065G7, 16 GB RAM, 256 GB SSD, DVD-RW, Windows 10 Pro",899.0,2,15.6,SSD,3.9,16,5.0,hp,0,i7
+223,"HP EliteBook 840 G1 14-inch Ultrabook (Intel Core i5 4th Gen, 8GB Memory, 180GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit) (Renewed)",365.0,165,14.0,Others,1.9,8,4.3,hp,0,i5
+224,"ASUS Strix G533QR 15.6 inch QHD 165Hz Gaming Laptop (AMD Ryzen 7-5800H, Nvidia RTX 3070 8GB Graphics, 16GB RAM (8GB x2), 1TB SSD, Opto Mechanical RGB Keyboard, Windows 10), Black",1899.99,55,15.6,SSD,3.0,8,4.7,asus,1,amd
+225,"HoMei 32 GB RAM, 1 TB SSD, 2 TB HDD, 17.3"" IPS Full HD 6 Core 9th Gen Intel Core i7-9750H 4.50 GHz Gaming Notebook Laptop, GeForce GTX 1660 Ti 6 GB GDDR6 Graphics, Backlit Keyboard",1598.0,20,17.3,HDD,4.5,32,4.8,other_brand,1,i7
+226,"HP 14"" EliteBook 840 G3 Ultrabook - Full HD (1920x1080) Core i5-6300U 8GB DDR4 256GB SSD WebCam WiFi Windows 10 Professional 64-bit Laptop PC (Renewed)",529.9,715,14.0,SSD,2.4,8,4.1,hp,0,i5
+227,"Acer Swift 5 SF514-55T 14 inch Laptop - (Intel Core i7-1165G7, 8GB RAM, 1TB SSD, Full HD Touchscreen Display, Windows 10, Racing Green)",1099.99,16,14.0,Flash Memory Solid State,4.7,8,3.8,acer,0,i7
+228,"CHUWI CoreBook Pro 13'' Laptop, 8GB RAM 256GB SSD, Intel Core i3-6157U Main Frequency 2.4GHZ, Windows 10, 2160x1440 Resolution, USB 3.0, Full Function Type C, 2.4G/5G WiFi",469.0,85,13.0,SSD,2.4,8,4.3,other_brand,0,i3
+229,"Razer Book 13 - Ultra Light Laptop for on the Go with 13.4 Inch UHD 60 Hz Touchscreen (Intel Core i7 11th Gen, Iris Xe Graphics, 10 Hours Battery Life) Mercury / White | Qwerty UK Layout",1298.99,13,13.4,SSD,2.8,512,4.3,other_brand,1,i7
+230,Lenovo V15-ADA AMD Ryzen 5-3500U 8GB 256GB SSD 15.6 Inch FHD Windows 10 Laptop,572.12,9,15.6,SSD,2.1,8,4.2,lenovo,0,amd
+231,"Lenovo V15 Ryzen 5 8GB 256GB SSD 15.6"" Win10 Home Laptop",519.78,69,15.6,SSD,2.1,8,4.6,lenovo,0,unknown
+232,"ASUS ZenBook 14 UX435EG Full HD 14"" Touchscreen Laptop (Intel i7-1165G7, Nvidia MX450 Graphics Card, 16GB RAM, 512GB SSD, 32GB Intel Optane Memory, Windows 10) Includes ScreenPad 2.0",1029.99,17,14.0,Flash Memory Solid State,2.8,16,4.0,asus,1,i7
+233,"HP OMEN 17-cb1003na 17.3 Inch Full HD, 144 Hz Gaming Laptop, Intel Core i7-10750H, 16 GB RAM, 512GB SSD, NVIDIA GeForce RTX 2080 Super (8 GB Dedicated) Graphics, Windows 10 Home - Black",1999.99,307,17.3,Others,2.6,16,4.6,hp,1,i7
+234,FANCY CHERRY® NEW 2018 HD 10 inch Mini Laptop Notebook Netbook Tablet Computer 1G DDR3 8GB Memory VIA WM8880 CPU Dual Core Android Screen Wifi Camera Keyboard USB HDMI (Silver 8GB),109.0,241,10.0,SSD,1.5,1,3.0,other_brand,0,unknown
+235,"CHUWI HiPad X 10.1'' 2-in-1 Laptop, 4GB RAM 128G UMCP, Android 10 System, 8 Cores, 2.0 GHz MT8788 Processor, FHD Touch Screen (1920x1200), 2.4G/5G WiFi, BT5.0, Include Keyboard and Stylus Pen",279.0,16,10.1,SSD,2.0,4,4.0,other_brand,0,unknown
+236,"Lenovo Yoga Slim 7 14 Inch 4K UHD Laptop - (Intel Core i5, 8 GB RAM, 256 GB SSD, Windows 10) – Fabric, Slate Grey",871.01,71,14.0,Flash Memory Solid State,1.1,8,4.3,lenovo,0,i5
+237,"KUU XBOOK Laptops, 14.1 inch Laptop 8GB RAM 512GB Intel Celeron J4115 Quad-core CPU Windows 10 HD Screen Ultra-thin narrow bezel Notebook (8GB RAM+512GB SSD)",319.99,90,14.1,SSD,1.8,8,3.8,other_brand,0,unknown
+238,"Razer Blade 15 Gaming Laptop (2020): With 15.6 Inch Full HD-300 Hz, Intel Core i7, NVIDIA GeForce RTX 2070 S, 16 GB RAM, 512 GB SSD, CNC Aluminum, Chroma RGB Lighting | UK QWERTY Layout",2549.98,286,15.6,Flash Memory Solid State,5.1,16,4.3,other_brand,1,i7
+239,"ASUS 14 inch Chromebook Flip C433TA Full HD Touchscreen Convertable Laptop (Intel Core M3-8100Y, 8GB RAM, 128GB eMMC, Chrome Os, Backlit Keyboard)",449.0,705,14.0,SSD,1.1,8,4.5,asus,0,unknown
+240,"Dell Inspiron 14 7490 14 Inch FHD Wide Viewing ANGLE 2019 Laptop (Silver) with Magnesium Alloy Build, Intel Core i7-10510U, 8 GB RAM, 512 GB SSD, Fingerprint Reader and Windows 10 Home",1099.99,7,14.0,Flash Memory Solid State,1.8,8,4.0,dell,0,i7
+241,Windows 10 Lenovo X230i i3-3110M Laptop PC - 4GB DDR3 - 320GB HDD -(Renewed) DM,199.99,2,12.0,SATA,2.4,4,4.5,other_brand,0,i3
+242,"ASUS VivoBook with Microsoft Office 365 E410MA 14 Inch Full HD Laptop (Intel Celeron N4020, 4 GB RAM, 64 GB eMMC, Windows 10 S)",249.99,2661,14.0,Flash Memory Solid State,1.1,4,4.0,asus,0,unknown
+243,"ASUS C433 Full HD 14 Inch Touchscreen ChromeBook Flip (Intel M3-8100Y Processor, 64 GB eMMC Storage, 4 GB RAM, Chrome OS), Silver/Blue",439.99,705,14.0,Others,1.1,4,4.5,asus,0,unknown
+244,"ASUS ZenBook UX534FAC 15.6 Inch Ultra HD (4K) Laptop (Intel i7-10510U, 16 GB RAM, 512 GB SSD, 32 GB Intel Optane Memory, Full HD ScreenPad, Backlit Keyboard, Windows 10)",1099.99,17,15.6,SSD,1.8,16,4.0,asus,0,i7
+245,"ASUS A516MA 15.6"" FHD Intel Pentium Silver N5030 8GB DDR4 256GB NVMe SSD Backlit Keyboard Windows 10 PRO",429.0,57,15.6,SSD,1.1,8,4.2,asus,0,unknown
+246,Lenovo ThinkPad T450 14.1 inches i5-5300U 8GB 240GB SSD WebCam WiFi Bluetooth USB 3.0 Windows 10 Professional 64-bit PC Laptop (Renewed),319.99,20,14.0,SSD,2.3,8,4.0,lenovo,0,i5
+247,"HP EliteBook 840 G1 14-inch Ultrabook (Intel Core i5 4th Gen, 8GB Memory, 320GB HDD, WiFi, WebCam, Windows 10 Professional 64-bit) (Renewed)",418.99,47,14.0,HDD,1.9,8,4.0,hp,0,i5
+248,"Lenovo V145 A6 15.6-inch Laptop, AMD A6-9225, 16GB RAM, 1TB SSD, DVD+RW, Windows 10 Pro",599.0,10,15.6,SSD,2.6,16,3.6,lenovo,0,amd
+249,"HP 255 G8 15.6-inch Laptop, AMD Ryzen 5 3500U Quad Core APU, 16 GB RAM, 512 GB SSD, Windows 10 Home",729.0,12,15.6,SSD,3.7,16,4.6,hp,0,amd
+250,"FANCY CHERRY 10 inch 8GB Laptop Netbook Notebook PC Ultrabook Android HDMI Dual Core WIFI Camera, Accessories Laptop Bag + Mouse + Mouse Pad + Earphone (White)",118.14,246,10.0,SSD,1.5,1,3.0,other_brand,0,unknown
+251,"LincPlus P1 13.3"" Laptop with Windows 10 S, Full HD IPS Notebook Intel Celeron N4000 4GB RAM 64GB eMMC Storage Upgradeable by SSD Fanless Quiet Slim Netbook",259.0,272,13.3,EMMC,2.6,4,4.2,other_brand,0,unknown
+252,"HoMei 32GB DDR4 RAM, 6 Core 9th Gen Intel Core i7-9750H 4.50GHz, 17.3 inch FHD 144Hz IPS Display, GeForce GTX 1660 Ti 6GB GDDR6 Graphics, 512GB SSD, Backlit Keyboard, Gaming Notebook Laptop PC",1398.0,3,17.3,SSD,4.5,32,4.6,other_brand,1,i7
+253,"KUU K2s 14.1 inch Laptop, Intel Celeron J4115 Quad Core Up to 2.5Ghz, 8GB RAM 512GB SSD Full-size ultra-narrow bezel keyboard with fingerprint unlock keyboard backlight (8GB+512GB SSD)",369.99,113,14.1,SSD,1.8,8,3.7,other_brand,0,unknown
+254,"ASUS ROG Zephyrus G14 G401IA Full HD 14"" IPS level Gaming Laptop (AMD Ryzen 5 4600HS, NVIDIA GeForce GTX 1650 4GB, 512GB M.2 NVMe SSD, 8GB RAM, Windows 10, Includes Bag & LAN Dongle), White",945.54,23,14.0,Flash Memory Solid State,3.0,8,4.2,asus,1,amd
+255,"Lenovo Legion 5 17.3 Inch FHD Gaming Laptop (Intel Core i7, 2x 8 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2060, Windows 10 Home) – Phantom Black",1299.97,5,17.3,Flash Memory Solid State,2.6,16,4.7,lenovo,1,i7
+256,"HP EliteBook 840 G1 14-inch Ultrabook (Intel Core i5 4th Gen, 8GB Memory, 128GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit) (Renewed)",427.0,715,14.0,SSD,1.6,8,4.1,hp,0,i5
+257,"CHUWI 13.3'' Laptop, 8GB RAM 256GB SSD, Intel Dual Core m3-8100Y 3.4GHZ, 4K Video Decoding, Windows 10, 1920x1080 Resolution, 2.4G/5G WiFi, USB 3.0, HDMI, Full Function Type C",399.0,9,13.3,SSD,1.1,8,3.7,other_brand,0,unknown
+258,"ROG Zephyrus G14 G401IV WQHD 14"" IPS Level Gaming Laptop (AMD Ryzen 9 4900HS, NVIDIA GeForce RTX 2060 6GB, 1TB M.2 NVMe SSD, 16GB RAM, Windows 10) Includes LED Lighting",1715.46,24,14.0,Flash Memory Solid State,3.0,16,3.9,other_brand,1,amd
+259,TOPOSH 14 Inches Windows 10 PC Laptop Computer Notebook 8GB RAM 128GB SSD Intel Celeron 3855U 1.8GHz CPU Processor Netbook with Fingerprint Unlock 3 Brightness Backlit Keyboard Metal Housing- Red,369.99,36,14.0,SSD,1.8,8,4.1,other_brand,0,unknown
+260,"Lenovo X230 (12in Laptop) Intel Core i5 3320M 2.60GHz (3rd Generation), 8GB Memory, 320Gb HDD, Wireless, Windows 10 (64 Bit) (Renewed)",289.99,51,12.0,HDD,2.6,8,4.3,lenovo,0,i5
+261,"ASUS ROG Zephyrus G14 GA401IU 14"" Full HD Gaming Laptop (AMD Ryzen 9-4900HS, NVIDIA GeForce GTX 1660Ti, 16GB RAM, 512GB SSD, Windows 10) Includes LED Matrix lighting",1199.99,24,14.0,SSD,3.0,16,3.9,asus,1,amd
+262,"Lenovo Yoga Slim 7 14 Inch 4K UHD Laptop - (Intel Core i7, 8 GB RAM, 512 GB SSD, Windows 10) – Fabric, Slate Grey",999.99,71,14.0,Flash Memory Solid State,1.3,8,4.3,lenovo,0,i7
+263,"Dell XPS 15 9500, Silver, Intel Core i7-10750H, 16GB RAM, 1TB SSD, 15.6"" 1920x1200 WUXGA, 4GB NVIDIA GeForce GTX 1650Ti, Dell 1 YR WTY + EuroPC Warranty Assist, (Renewed)",1499.99,6,15.6,SSD,2.6,16,3.8,dell,1,i7
+264,Venturer 11 Inch Windows Notebook,199.99,7,11.6,EMMC,1.1,2,4.3,other_brand,0,unknown
+265,"Lenovo V14-IIL 14"" Full HD Laptop Intel Core i5-1035G1 8GB RAM 256GB SSD Windows 10 Pro - 82C40019UK",679.0,7,14.0,SSD,2.1,8,4.7,lenovo,0,i5
+266,"Lenovo IdeaPad Flex 5 15.6 Inch FHD 2-in-1 Laptop - (Intel Core i7, 8 GB RAM, 512 GB SSD, Windows 10 S Mode) - Graphite Grey",799.99,77,15.6,Flash Memory Solid State,1.3,8,4.6,lenovo,0,i7
+267,"Dell New XPS 17 9700 17.0 Inch 4K UHD+ Laptop,Intel Core i9-10885H(10th Gen), 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2060, InfinityEdge Touch Anti-Reflecitve 500-Nit, Fingerprint Reader, Win 10 Home",3196.0,82,17.0,Flash Memory Solid State,5.3,16,4.1,dell,1,i9
+268,"Microsoft Surface Laptop Go Ultra-Thin 12.4” Touchscreen Laptop (Platinum) - Intel 10th Gen Quad Core i5, 8GB RAM, 256GB SSD, Windows 10 Home in S Mode, 2020 Edition",799.0,118,12.45,Flash Memory Solid State,3.6,8,4.5,other_brand,0,i5
+269,"HUAWEI MateBook D 15.6'' Laptop, Full View 1080P FHD Ultrabook PC- (Intel Core i5-10210U, Multi-screen Collaboration, Fingerprint Reader, 8GB RAM, 256GB SSD, Windows 10 Home), Gray",579.99,2269,15.6,Flash Memory Solid State,1.6,8,4.7,other_brand,0,i5
+270,"Lenovo V15 15.6"" Laptop - Ryzen 3 2.3GHz CPU, 4GB RAM, Radeon, Windows 10",361.89,9,15.6,SSD,2.3,4,4.0,lenovo,0,unknown
+271,"Lenovo Legion 5 15.6 Inch FHD 144 Hz Gaming Laptop (Intel Core i5, 8 GB RAM, 512 GB SSD, NVIDIA GeForce GTX 1660 Ti, Windows 10 Home) – Phantom Black",849.98,63,15.6,Flash Memory Solid State,2.5,8,4.4,lenovo,1,i5
+272,"G-Anica® 10.1 Inch Windows 10 Laptop Quad Core Notebook Slim and Lightweight Mini Netbook Computer with Netflix Youtube Bluetooth Wifi Webcam HDMI , and Laptop Bag,Mouse, Mouse Pad, Headphone (Green)",209.99,39,10.1,SSD,1.44,2,3.7,other_brand,0,unknown
+273,"ASUS VivoBook M413DA Full HD 14 Inch Laptop (AMD Ryzen 7, 8 GB RAM, 512 GB SSD, Windows 10) Includes reversible USB 3.2 Type-C port",588.0,207,14.0,Flash Memory Solid State,4.0,8,4.5,asus,0,amd
+274,"ASUS ZenBook Flip S UX371EA OLED Ultra HD (4K) 13.3"" Touchscreen Convertible Laptop (Intel i7-1165G7, 16GB RAM, 1TB SSD, Windows 10, with Stylus Pen + Audio Jack Adapter) - Intel EVO Verified, Black",1499.99,11,13.3,Flash Memory Solid State,2.8,16,3.9,asus,0,i7
+275,"Acer Aspire 5 A515-56 15.6 inch Laptop - (Intel Core i5-1135G7, 8GB RAM, 1TB SSD, Full HD Display, Windows 10, Blue) - Amazon Exclusive",699.99,348,15.6,Flash Memory Solid State,4.2,8,4.4,acer,0,i5
+276,"Acer Aspire 5 A515-56G 15.6 inch Laptop - (Intel Core i7-1165G7, 8GB RAM, 1TB SSD, NVIDIA MX350, Full HD Display, Windows 10, Silver)",849.99,348,15.6,Flash Memory Solid State,4.7,8,4.4,acer,1,i7
+277,"15.6 inch Laptop (Intel Celeron 64-bit, 8GB DDR3 RAM, 128GB SSD, 10000mAH battery, HD webcam, Windows 10 OS Preinstalled, 1920 * 1080 FHD IPS display) Notebook",303.99,88,15.6,SSD,1.5,8,3.4,other_brand,0,unknown
+278,"ASUS ZenBook Duo UX482EG 14 inch Full HD 400nits Dualscreen Touchscreen Laptop (Intel i7-1165G7, NVIDIA GeForce MX450, 16GB RAM, 512 GB SSD, Windows 10) Includes Stylus Pen",1523.98,18,14.0,SSD,2.8,16,4.9,asus,1,i7
+279,"Microsoft Surface Laptop Go Ultra-Thin 12.4” Touchscreen Laptop (Ice Blue) - Intel 10th Gen Quad Core i5, 8GB RAM, 256GB SSD, Windows 10 Home in S Mode, 2020 Edition",799.0,118,12.45,Flash Memory Solid State,3.6,8,4.5,other_brand,0,i5
+280,HP 255 G7 AMD Ryzen 5 8GB 256GB SSD 15.6 Inch Windows 10 Home Laptop,624.0,31,15.6,SSD,2.1,8,4.2,hp,0,amd
+281,"ASUS A509JA 15.6"" IPS FHD, i3-1005G1, Intel UMA, 8GB DDR4, 256GB NVMe SSD, Chiclet KB, WiFi 5, BT 4.1, WIN 10 PRO",529.0,8,15.6,SSD,3.4,8,4.8,asus,0,i3
+282,"HP Stream 11-ak0007na 11.6 Inch Laptop (Blue) (Intel Celeron N4000, 2 GB RAM, 32 GB eMMC, Microsoft 365 and 1 TB OneDrive Cloud Storage, 1 Year Subscription Included, Windows 10 Home)",229.8,339,11.6,EMMC,1.1,2,4.2,hp,0,unknown
+283,"KUU XBOOK Laptops, 14.1 inch Laptop 8GB RAM 256GB Intel Celeron J4115 Quad-core CPU Windows 10 HD Screen Ultra-thin narrow bezel Notebook (8GB RAM+256GB SSD)",299.99,90,14.1,SSD,1.8,8,3.8,other_brand,0,unknown
+284,"HUAWEI MateBook 13 2020 - 13 Inch Laptop with 2K FullView Screen - 10th Gen Intel Core i5-10210U, 8GB RAM, 512GB SSD, NVIDIA GeForce MX250, Windows 10 Home, Space Grey",665.12,230,13.0,Flash Memory Solid State,4.2,8,4.6,other_brand,1,i5
+285,"HP Elitebook 840 G1 Laptop, I5-4200U, 1.6GHZ, 256GB Solid State Drive, 8GB RAM, With Windows 10 Professional (Renewed)",399.99,61,14.0,SSD,1.6,8,4.1,hp,0,i5
+286,"Lenovo ThinkPad E15 (20RD001FUK) 15.6"" Full HD Laptop (Black) (Intel Core i5-10210U, 8GB RAM, 256GB SSD, Windows 10 Pro)",830.94,6,15.6,SSD,1.6,8,5.0,lenovo,0,i5
+287,"Lenovo IdeaPad L340 15 Inch Gaming Laptop - Intel Core i5 Processor, NVIDIA GeForce GTX 1650, 8GB RAM, 256 SSD",749.0,1,15.6,Flash Memory Solid State,4.1,8,5.0,lenovo,1,i5
+288,"Acer Swift 3 SF313-53 13.5 inch Laptop - (Intel Core i7-1165G7, 8GB RAM, 512GB SSD, QHD 3:2 Display, Windows 10, Silver)",899.99,12,13.5,Flash Memory Solid State,4.7,8,3.6,acer,0,i7
+289,"ASUS ZenBook Pro Duo UX581 OLED 4K Dual-Touchscreen 15.6"" Laptop (Intel i9-10980HK, Nvidia GeForce RTX 2060, 32GB RAM, 1TB NVMe PCIe SSD, Windows 10) Includes Stylus Pen",2799.98,18,15.6,Flash Memory Solid State,2.4,32,4.9,asus,1,i9
+290,TOPOSH 14 Inches Windows 10 PC Laptop Computer Notebook 8GB RAM 128GB SSD Intel Celeron 3855U 1.8GHz CPU Processor Netbook with Fingerprint Unlock 3 Brightness Backlit Keyboard Metal Housing- Silver,369.99,36,14.0,SSD,1.8,8,4.1,other_brand,0,unknown
+291,"G-Anica® 10.1 Inch Windows 10 Laptop Quad Core Notebook Slim and Lightweight Mini Netbook Computer with Netflix Youtube Bluetooth Wifi Webcam HDMI , and Laptop Bag,Mouse, Mouse Pad, Headphone (Pink)",209.99,39,10.1,SSD,1.44,2,3.7,other_brand,0,unknown
+292,"""Dell Latitude E7270 Light Compact 12"""" Laptop Intel Core i5 6th Gen 8GB RAM 256GB SSD HDMI Webcam Win 10 Pro (Renewed)"", black",389.11,116,12.5,SSD,1.9,8,3.8,other_brand,0,i5
+293,"HP Envy x360 15-ed0007na 15.6 Inch Full HD Touch Screen Convertible Laptop with Stylus (Natural Silver) - (Intel Core i7-1065G7, Intel Iris Plus Graphics, 16 GB RAM, 512 GB SSD, Windows 10 Home)",1149.99,350,15.6,Flash Memory Solid State,1.3,16,4.4,hp,1,i7
+294,"Lenovo 14"" ThinkPad T450 Ultrabook - HDF+ (1600x900) Core i5-5300U 16GB 256GB SSD WebCam WiFi Bluetooth USB 3.0 Windows 10 Professional 64-bit PC Laptop (Renewed)",499.0,486,14.0,SSD,2.3,16,4.3,lenovo,0,i5
+295,"Microsoft Surface Laptop Go Ultra-Thin 12.4” Touchscreen Laptop (Sandstone) - Intel 10th Gen Quad Core i5, 8GB RAM, 256GB SSD, Windows 10 Home in S Mode, 2020 Edition",799.0,118,12.45,Flash Memory Solid State,3.6,8,4.5,other_brand,0,i5
+296,"Lenovo V15-IIL 15.6-inch Laptop, Intel Core i5-1035G1, 8 GB RAM, 256 GB SSD, Windows 10 Pro",649.0,1,15.6,SSD,3.6,8,5.0,lenovo,0,i5
+297,"DELL LATITUDE E6330 13"" LAPTOP INTEL CORE i5-3340M 3rd GEN 2.7GHZ 8GB RAM 1TB HDD DVD WEBCAM WINDOWS 10 PRO 64BIT (Renewed)",379.99,3,13.3,SATA,2.6,8,4.6,dell,0,i5
+298,"MSI GS66 Stealth 10SE-040 - 15.6 Inch Full HD 240hz Gaming Laptop, Intel Core i7-10750H, NVIDIA GeForce RTX 2060 6 GB, 16 GB, 512 GB NVMe SSD, Windows 10 Home",1348.99,10,15.6,SSD,2.6,16,3.7,other_brand,1,i7
+299,"Lenovo V15 Athlon Gold 3150U 15.6-inch Laptop, AMD Athlon Gold 3150U, 8 GB RAM, 256 GB SSD, Windows 10 Pro",449.0,2,15.6,SSD,3.3,8,4.0,lenovo,0,amd
+300,"HP Pavilion x360 14-dw0024na 14 Inch Full HD Touch Screen Convertible Laptop, Intel Core i3-1005G1, 8 GB RAM, 128 GB SSD, Windows 10 Home - Silver",579.99,33,14.0,Flash Memory Solid State,1.2,8,4.5,hp,0,i3
+301,"Lenovo IdeaPad 3 14ADA05 14 Inch FHD Laptop - (AMD Ryzen 3, 4GB RAM, 128 GB SSD, AMD Radeon Graphics, Windows 10 Home + Office 365 Personal) - Platinum Grey",399.99,41,14.0,SSD,3.5,4,4.5,lenovo,1,amd
+302,"HP 250 G7 15.6"" Laptop - Core i5 1.6GHz CPU, 8GB RAM, Windows 10",679.0,54,15.6,HDD,1.6,8,4.3,hp,0,i5
+303,"Acer Nitro 5 AN515-55 15.6 inch Gaming Laptop (Intel Core i7-10750H, 8GB RAM, 1TB SSD, NVIDIA RTX 2060, Full HD 144Hz Display, Windows 10, Black)",1048.99,268,15.6,Flash Memory Solid State,2.6,8,4.5,acer,1,i7
+304,"HP 255 G8 15.6-inch Laptop, AMD Ryzen 5 3500U Quad Core APU, 32 GB RAM, 1 TB SSD, Windows 10 Pro",879.0,7,15.6,SSD,3.7,32,4.7,hp,0,amd
+305,"G-Anica® Netbook Laptop PC 10 inch Android Portable Ultrabook,Dual Core, Wifi,with Laptop Bag + Mouse + Mouse Pad + Earphone (4 PCS Computer Accessories) (Pink)",139.99,153,10.0,HDD,1.5,1,3.0,other_brand,0,unknown
+306,"Razer Blade 15 Base Model (2020): Gaming Laptop with 15.6 Inch Full HD 144 Hz Base Model, Intel Core i7, NVIDIA GeForce GTX 1660 Ti, 16 GB RAM, 256 GB SSD, Chroma RGB Lighting | UK QWERTY Layout",1219.97,286,15.6,Flash Memory Solid State,5.0,16,4.3,other_brand,1,i7
+307,HP ELITEBOOK 840 G3 LAPTOP INTEL CORE I5-6200U 6th GEN 2.3GHZ WEBCAM 8GB RAM 240GB SSD WINDOWS 10 PRO 64BIT (Renewed),444.29,8,14.0,SSD,2.3,8,4.1,hp,0,i5
+308,"HP EliteBook 840 G1 14-inch Ultrabook Laptop PC (Intel Core i7-4600U, 8GB RAM, 256GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit)(Renewed)",429.99,715,14.0,SSD,2.1,8,4.1,hp,0,i7
+309,"HSW 10.1 inch windows 10 Ultra Thin Laptop PC - 2GB RAM 32GB Storage, Intel Quad Core 1.44Ghz USB 3.0, WiFi, HDMI, BT, Supports 128GB tf-Card Notebook Computer (White)",169.99,99,10.1,SATA,1.44,2,3.5,other_brand,0,unknown
+310,"HP PROBOOK 640 G1 14"" LAPTOP INTEL CORE i5-4200M 4th GEN 2.5GHZ WEBCAM 8GB RAM 500GB HDD WINDOWS 10 PRO (Renewed)",418.2,9,14.0,SATA,2.5,8,3.6,hp,0,i5
+311,"Dell XPS 15 9500 15.6 inch UHD+ Touchscreen Laptop (Silver) Intel Core i7-10750H 10th Gen, 16GB DDR4 RAM, 1TB SSD, Nvidia GTX 1650 Ti with 4GB GDDR6, Window 10 Pro (Renewed)",1749.99,7,15.0,SSD,2.6,16,4.3,dell,1,i7
+312,Lenovo ThinkPad T430 3rd Gen i5-3320M 8GB 128GB SSD WebCam DVDRW USB 3.0 Windows 10 Professional 64-bit (Renewed),329.99,180,14.0,SSD,2.6,8,4.3,lenovo,0,i5
+313,"HP Envy x360 15-ed0006na 15.6-inch Full HD Touch Screen Convertible Laptop with Stylus (Natural Silver) - (Intel Core i5-1035G1, 8 GB RAM, 512 GB SSD, Windows 10 Home)",1399.0,43,15.6,Flash Memory Solid State,1.0,8,4.4,hp,0,i5
+314,"Lenovo Thinkpad T440 Laptop, I5-4300U, 1.9GHZ, 256GB Solid State Drive, 8GB RAM, With Windows 10 Professional (Renewed)",339.99,37,14.0,SSD,1.9,8,3.8,lenovo,0,i5
+315,"HP 250 G7 15.6-inch Laptop, Intel Core i7-1065G7, 16 GB RAM, 500 GB SSD, Windows 10 Pro",979.0,2,15.6,SSD,3.9,16,5.0,hp,0,i7
+316,"Lenovo Yoga S1 Thinkpad, 128GB SSD, 4GB RAM (Renewed) (Refurbished)",299.99,28,12.5,SSD,2.6,4,4.4,lenovo,0,unknown
+317,"14 inch Laptop (Intel Celeron 64-bit, 4GB DDR3 RAM, 64GB eMMC, 10000mAH battery, HD webcam, Windows 10 OS Preinstalled, 1366 * 768 FHD IPS display) Notebook",218.99,137,14.0,EMMC,1.1,6,2.6,other_brand,0,unknown
+318,"ASUS OLED ZenBook Flip UX363EA 13.3 inch 400nits Touchscreen Laptop (Intel i7-1165G7, 16GB RAM, 512GB SSD, Backlit Keyboard, Windows 10) Includes Stylus Pen and USB-C to audio jack adapter",1199.99,11,13.3,SSD,2.8,16,3.9,asus,0,i7
+319,"FANCY CHERRY 10 inch 8GB Laptop Netbook Notebook PC Ultrabook Android HDMI Dual Core WIFI Camera, Accessories Laptop Bag + Mouse + Mouse Pad + Earphone (Pink)",119.0,246,10.0,SATA,1.5,1,3.0,other_brand,0,unknown
+320,Lenovo ThinkPad X240 12.5in 4th Gen Intel Core i5-4300U 8GB 240GB SSD WiFi WebCam Windows 10 Professional 64-bit (Renewed),306.99,27,12.5,SSD,1.9,8,4.3,lenovo,0,i5
+321,"HP Stream 14s-fq0508sa 14"" Laptop - AMD 3020e, 64 GB eMMC, Black",325.0,5,14.0,SSD,2.6,4,3.1,hp,0,amd
+322,"Lenovo ThinkPad E14 14"" Laptop - Core i7 1.8GHz CPU, 16GB RAM, Windows 10 Pro",981.97,2,14.0,Others,1.8,16,5.0,lenovo,0,i7
+323,"ASUS TUF FA506IU Full HD 144Hz 15.6"" Gaming Laptop (AMD Ryzen 5-4600H, Nvidia GeForce GTX 1660Ti, 8GB RAM, 512GB SSD, Windows 10), Fortress Gray",839.0,124,15.6,Flash Memory Solid State,3.0,8,4.4,asus,1,amd
+324,"HP 15s-eq1054na 15.6 Inch Full HD Laptop - (Grey) (AMD 3020e, 4 GB RAM, 128 GB SSD, Windows 10 Home)",299.99,61,15.6,Flash Memory Solid State,1.2,4,4.2,hp,0,amd
+325,"Lenovo Legion 7 15.6 Inch FHD 240 Hz Gaming Laptop (Intel Core i7, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2070 Super Max-Q, Windows 10 Home) – Slate Grey",1596.0,10,15.6,Flash Memory Solid State,2.6,16,4.0,lenovo,1,i7
+326,"Jumper EZbook S5 14 inch Windows 10 laptop, 8GB RAM 256GB, Intel Quad core processor, TF card supports up to 128GB expansion, M.2 SSD supports up to 1TB expansion",339.99,2,14.0,Flash Memory Solid State,2.2,8,3.0,other_brand,0,unknown
+327,"Dell New XPS 13 9300 13inch FHD Laptop, Intel Core i7-1065G7 (10th Gen), 8GB RAM, 512GB SSD, Windows 10 Home, 2020 Model ,Silver",1499.0,35,13.4,Flash Memory Solid State,3.9,8,4.2,dell,0,i7
+328,"Razer Book 13 - Ultra Light Laptop for on the Go with 13.4 Inch Full HD 60 Hz Touchscreen (Intel Core i7 11th Gen, Iris Xe Graphics, 10 Hours Battery Life) Mercury / White | Qwerty UK Layout",1399.98,13,13.4,SSD,2.8,256,4.3,other_brand,1,i7
+329,"FANCY CHERRY 10 inch 8GB Laptop Netbook Notebook PC Ultrabook Android HDMI Dual Core WIFI Camera, Accessories Laptop Bag + Mouse + Mouse Pad + Earphone (Silver)",118.14,246,10.0,SATA,1.5,1,3.0,other_brand,0,unknown
+330,"HP ProBook 450 G7 15.6"" Laptop - Core i5 1.6GHz CPU, 8GB RAM, 256GB SSD, Windows 10 Pro",849.29,7,15.6,SSD,1.6,8,4.8,hp,0,i5
+331,"Lenovo V15 82C70004UK - 15.6-inch Laptop, AMD Ryzen 3 3250U, 8 GB RAM, 256 GB SSD, Windows 10 Home",444.5,8,15.6,SSD,3.5,8,4.8,lenovo,0,amd
+332,"HP 250 G7 15.6-inch Laptop, Intel Core i7-1065G7, 32 GB RAM, 2 TB SSD, Windows 10 Pro",1349.0,7,15.6,SSD,3.9,32,4.1,hp,0,i7
+333,"HP PROBOOK 650 G1 15.6"" LAPTOP INTEL CORE i5-4300M 4th GEN 2.6GHZ WEBCAM 8GB RAM 256GB SSD WINDOWS 10 PRO 64BIT (Renewed))",495.0,10,15.6,SSD,2.6,8,2.8,hp,0,i5
+334,"ASUS - ROG Zephyrus G14 14"" Gaming Laptop - AMD Ryzen 9 - 16GB Memory - NVIDIA GeForce RTX 2060 Max-Q - 1TB SSD - Moonlight White",1299.0,62,14.0,SSD,2.3,16,4.6,asus,1,amd
+335,"APPLE MACBOOK PRO A1278 MD101 CORE I5 2.5GHZ, 16GB RAM, 500GB HDD, 13.3in SCREEN (Renewed)",479.99,289,13.0,HDD,2.5,16,4.0,apple,0,i5
+336,"Lenovo ThinkPad T450 14.1"" i5-5300U 8GB 256GB SSD WebCam WiFi Bluetooth USB 3.0 Windows 10 Professional 64-bit PC Laptop (Renewed)",440.0,486,14.0,SSD,2.3,8,4.3,lenovo,0,i5
+337,"Lenovo ThinkPad T460 i5-6200 2.3GHz 8GB RAM, 256GB SSD DVDRW 14.1"" 1920 x 1080 (Full HD) LCD Webcam Windows 10 Pro 64 bit WiFi (Renewed)",429.0,3,14.1,SSD,2.3,8,4.6,lenovo,0,i5
+338,"Gigabyte AERO 15-XC 15.6"" Laptop, UHD, AMOLED, Intel Core i7-10870H, 32GB DDR4, 1TB NVMe SSD, NVIDIA GeForce RTX 3070 Max-Q GDDR6 8GB, Windows 10 Pro",2677.8,1,15.6,SSD,5.0,32,2.0,other_brand,1,i7
+339,TOPOSH 11.6 Inch Windows 10 Laptop PC Mini Notebook Computer 8GB RAM+128GB SSD Intel Celeron J3455 Quad Core 1.5GHz Processor Graphics with TF Card Slot WIFI Bluetooth- Black,289.99,1,11.6,SSD,1.5,8,5.0,other_brand,1,unknown
+340,"Microsoft Surface Laptop 3 Ultra-Thin 13.5” Touchscreen Laptop (Platinum) - Intel 10th Gen Quad Core i5, 8GB RAM, 256GB SSD, Windows 10 Home, 2019 Edition",999.0,353,13.5,SSD,2.1,8,4.6,other_brand,0,i5
+341,"HP Stream 14-inch Laptop, Intel Celeron N4000, 4 GB RAM, 32 GB eMMC, Windows 10 Home in S Mode With Office 365 Personal For 1 Year (14-cb183nr, Diamond White), Model Number: 9MV83UA#ABA",329.0,501,14.0,EMMC,1.1,4,4.4,hp,0,unknown
+342,"Razer Blade 15 Base Model (2020): Gaming Laptop with 15.6 Inch Full HD 144 Hz Base Model, Intel Core i7, NVIDIA GeForce RTX 2060, 16 GB RAM, 512 GB SSD, Chroma RGB Lighting |UK QWERTY Layout",1695.82,286,15.6,Flash Memory Solid State,5.0,16,4.3,other_brand,1,i7
+343,HP ELITEBOOK 840 G3 14in Touchscreen LAPTOP INTEL CORE i5-6200U 6th GEN 2.30GHZ WEBCAM 8GB RAM 180GB SSD WINDOWS 10 PRO 64BIT (Renewed),495.0,11,14.0,SSD,2.3,8,4.1,hp,0,i5
+344,"KUU KBOOK Pro Laptop, 14 inch 1920 × 1080 FHD screen Intel Celeron N3450 CPU 6GB 256GB SSD with RJ45, Thin and light laptop (6GB RAM+256GB SSD)",289.99,5,14.1,SSD,2.3,6,3.7,other_brand,0,unknown
+345,HP ELITEBOOK 840 G3 14in Touchscreen LAPTOP INTEL CORE i5-6200U 6th GEN 2.30GHZ WEBCAM 16GB RAM 1TB HDD WINDOWS 10 PRO 64BIT (Renewed),546.7,13,14.0,SATA,2.3,16,4.1,hp,0,i5
+346,"Dell Latitude Rugged 5420 14-inch Laptop, Intel Core i5-8350U, 3.60GHz, 16 GB RAM, 512GB SSD, UHD Graphics, FHD 1920 x 1080, Windows 10 Pro",1595.95,1,14.0,SSD,3.6,16,4.0,dell,1,i5
+347,HP EliteBook 820 G3 (12.5 inch) Notebook PC Core i5 (6200U) 2.3GHz 8GB 256GB SSD WLAN BT Webcam Windows 10 Pro 64-bit (HD Graphics 520) (Renewed),350.0,30,12.5,SSD,2.3,8,3.9,hp,1,i5
+348,"Dell Inspiron 7000 13.3 Inch FHD 2-in-1 Laptop, Intel Core i5-1135G7 (11th Gen), Narrow Border WVA Display with Active Pen and Charging Dock, 8 GB RAM, 512 GB SSD, Fingerprint Reader, Win 10 Home",949.0,3,13.3,Flash Memory Solid State,4.2,8,5.0,dell,0,i5
+349,"HSW 10.1 inch windows 10 Ultra Thin Laptop PC - 2GB RAM 32GB Storage, Intel Quad Core 1.44Ghz USB 3.0, WiFi, HDMI, BT, Supports 128GB tf-Card Notebook Computer (Blue)",148.75,99,10.1,SATA,1.44,2,3.5,other_brand,0,unknown
+350,"HONOR MagicBook Pro, 16.1 Inch Laptop with 1080P FHD Screen, Ultrabook PC (AMD 7 nm Ryzen 5, 16 GB RAM, 512 GB SSD, Windows 10 Home, Multi-screen Collaboration, Fingerprint Reader), Space Grey",899.97,328,16.1,Flash Memory Solid State,3.0,512,4.6,other_brand,0,amd
+351,"ASUS 14 inch Chromebook C425TA Full HD Laptop (Intel Core M3-8100Y, 4GB RAM, 64GB eMMC, Chrome OS, Backlit Keyboard)",348.97,2677,14.0,SSD,1.1,4,4.4,asus,0,unknown
+352,"Alienware m15 R3 15.6 Inch 4K UHD Gaming Laptop, Intel Core i7-10750H (10th Gen), 60Hz 1ms 400-nits OLED Display, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 2070 SUPER 8GB GDDR6, Tobii Eyetracking, Win 10H",2099.0,14,15.6,Flash Memory Solid State,5.1,16,4.0,other_brand,1,i7
+353,"G-Anica® 10.1 Inch Windows 10 Laptop Quad Core Notebook Slim and Lightweight Mini Netbook Computer with Netflix Youtube Bluetooth Wifi Webcam HDMI , and Laptop Bag,Mouse, Mouse Pad, Headphone(Black)",209.99,39,10.1,SSD,1.44,2,3.7,other_brand,0,unknown
+354,Lenovo ThinkPad T430 Core i5-3320M 8GB 512GB SSD DVDRW WiFi Windows 10 Professional Laptop PC Computer (Renewed),369.49,16,14.0,SSD,2.6,8,3.8,lenovo,0,i5
+355,"ASUS ZenBook UM433IQ Full HD 14"" Laptop (AMD Ryzen 7 4700U, Nvidia GeForce MX350 Graphics, 8GB RAM, 512GB PCIe SSD, Windows 10) - Includes LED NumberPad, Light Grey",838.98,76,14.0,Flash Memory Solid State,2.0,8,4.1,asus,1,amd
+356,"ASUS TUF FX505 - 15.6 Inch 120 Hz Full HD Gaming Laptop - AMD Ryzen R7-3750H, Nvidia GeForce RTX 2060 6 GB, 16 GB RAM, 512 GB NMVe PCI-e SSD, Windows 10)",1199.99,231,15.6,Others,2.3,16,4.5,asus,1,amd
+357,"Alienware m15 R3 15.6 Inch FHD Gaming Laptop, Intel Core i7-10750H, 144Hz 7ms 300-nits 72% NTSC Colour Gamut Display, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2060 6 GB GDDR6, Win 10 Home",1847.16,14,15.6,Flash Memory Solid State,5.1,16,4.0,other_brand,1,i7
+358,TOPOSH Windows 10 Laptop 10.1 Inch PC Mini Notebook Computer 2GB RAM+32GB SSD Intel Atom X5-Z8350 Quad-Core Graphics 1.92 GHz with TF slot Bluetooth 4.0 Wifi HDMI - Pink,189.99,135,10.1,SSD,1.92,2,3.8,other_brand,1,unknown
+359,"ASUS X509JA-EJ025T 15.6"" Full HD Laptop (Intel Core i3-1005G1 Processor, 4GB RAM, 256GB SSD, Windows 10 Home), Slate Grey",432.3,12,15.6,Flash Memory Solid State,1.2,4,4.0,asus,0,i3
+360,"Apple MacBook Pro Retina Display MPXQ2LL/A , 13in Laptop 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Silver, macOS Mojave 10.14 (Renewed)",748.94,394,13.0,SSD,2.3,8,4.4,apple,0,i5
+361,Dell Latitude E6430 14.1in Core i5-3320M 8GB 128GB SSD DVDRW WiFi Windows 10 Professional 64-Bit Laptop (Renewed),299.99,116,14.1,SSD,2.6,8,3.8,dell,0,i5
+362,"ASUS 14 inch Chromebook C423NA 14"" Full HD Laptop (Intel Celeron N3350, 4GB RAM, 64GB eMMC, Chrome)",274.0,2677,14.0,EMMC,1.1,4,4.4,asus,0,unknown
+363,"HP Stream 11-AK0001NA 11.6"" Laptop 1366 x 768 pixels Intel Celeron N4000 2GB DDR4-SDRAM 32GB eMMC Wi-Fi 5 802.11ac Windows 10 S - 5AT52EA - UK Keyboard Layout - Plain Box",269.0,5,11.6,HDD,2.6,2,4.0,hp,0,unknown
+364,"Lenovo IdeaPad S130 14” HD Cloudbook – (Intel Celeron N4000 Processor, 4GB RAM, 64GB eMMC, Windows 10 S bundled with Office 365 Personal) - Grey",299.0,212,14.0,EMMC,1.1,4,4.4,lenovo,0,unknown
+365,"Lenovo Ideapad S340 14"" Full HD Laptop Intel Core i3-1005G1 4GB RAM 128GB SSD Windows 10 S Abyss Blue - 81VV0026UK",429.98,6,14.0,SSD,1.2,4,4.8,lenovo,0,i3
+366,"MSI GE66 Raider 10UG-003UK Full HD 240 Hz 15.6 Inch Gaming Laptop (Intel i7-10870H, NVIDIA GeForce RTX 3070 8 GB, 1TB NVMe PCIe Gen3x4 SSD, 32 GB RAM, Wi-Fi 6, 99.9Whr) Titanium Blue-Black",2099.0,3,15.6,SSD,4.8,32,5.0,other_brand,1,i7
+367,"HP Pavilion 17-cd1014na 17.3 Inch Full HD Gaming Laptop - (Shadow Black) (Intel Core i7-10750H, NVIDIA GeForce GTX 1660 Ti (6 GB Dedicated) Graphics, 16 GB RAM, 512 GB SSD, 1 TB HDD, Windows 10 Home)",1199.99,455,17.3,Others,2.6,16,4.7,hp,1,i7
+368,"ASUS A516MA 15.6"" FHD Intel Pentium Silver N5030 8GB DDR4 256GB NVMe SSD Intel UHD Graphics Backlit KB WIN 10 PRO",429.0,10,15.6,SSD,1.1,8,3.7,asus,1,unknown
+369,"G-Anica® Netbook Laptop PC 10 inch Android Portable Ultrabook,Dual Core, Wifi,with Laptop Bag + Mouse + Mouse Pad + Earphone (4 PCS Computer Accessories) (Black)",139.99,153,10.0,HDD,1.5,1,3.0,other_brand,0,unknown
+370,"HP 14"" EliteBook 840 G3 Ultrabook - Full HD (1920x1080) Core i5-6300U 8GB DDR4 512GB SSD WebCam WiFi Windows 10 Professional 64-bit Laptop PC (Renewed)",566.05,715,14.0,SSD,2.4,8,4.1,hp,0,i5
+371,"Alienware m15 R3 15.6"" FHD 300Hz 3ms 300-nits Gaming Laptop, Intel Core i7-10750H, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2080 SUPER 8GB GDDR6, Killer Wi-Fi6, Win 10 Home",2899.0,14,15.6,Flash Memory Solid State,5.1,32,4.0,other_brand,1,i7
+372,"HP 250 G7 15.6-inch Laptop, Intel Core i7-1065G7, 16 GB RAM, 2 TB SSD, Windows 10 Pro",1199.0,2,15.6,SSD,3.9,16,5.0,hp,0,i7
+373,BIGMAC Windows 10 Computer Laptop Mini 10.1 Inch 32GB Ultra Thin and Light Netbook Intel Quad Core CPU PC HDMI WIFI USB Netflix Youtube (Blue)…,199.0,100,10.1,SSD,1.96,2,3.7,other_brand,0,unknown
+374,"Lenovo N21 Chromebook - 11.6-inch Laptop Intel Celeron N2840 2.16GHz / 2.58GHz Turbo Processor, 4GB RAM, 16GB eMMC, Google Chrome OS (Renewed)",179.99,34,11.6,EMMC,2.16,2,4.0,lenovo,0,unknown
+375,"Lenovo V15 Athlon Gold 3150U 15.6-inch Laptop, AMD Athlon Gold 3150U, 8 GB RAM, 1 TB SSD, Windows 10 Pro",599.0,2,15.6,SSD,3.3,8,4.0,lenovo,0,amd
+376,"APPLE MACBOOK PRO Retina A1502 13.3"" LATE 2013 ME864LL/A CORE I5 2.4GHz 8GB Ram 256GB SSD MAC OS MOJAVE (Renewed)",569.0,26,13.3,Others,2.4,8,4.3,apple,0,i5
+377,"Dell New XPS 13 2in1 9310 13 Inch Laptop, Intel Core i7-1165G7 Processor (4.7 GHz), 16:10 FHD+ WLED Touch Display (1920 x 1200), 16 GB RAM, 512 GB NVMe SSD, Fingerprint Reader, Windows 10 Home, silver",1595.0,37,13.4,Flash Memory Solid State,4.7,16,4.1,dell,0,i7
+378,"HP Pavilion x360 14-dw1012na 14 Inch Full HD Touch Screen Convertible Laptop, Intel Pentium Gold 7505, 4 GB RAM, 128 GB SSD, Windows 10 Home - Silver",479.99,33,14.0,Flash Memory Solid State,3.5,4,4.5,hp,0,unknown
+379,"iSTYLE 15.6-inch Windows 10 Ultra-Thin Full HD Laptop Netbook-8GB EMMC 64GB Storage Space (1.44Ghz, USB 3.0, WiFi, HDMI, BT, Intel HD Graphics) Laptop (8GB+64GB SILVER) (8GB+64GB SILVER)",279.0,41,15.6,SATA,1.44,4,4.2,other_brand,1,unknown
+380,ASUS Zenbook Flip UX370UA Core i5-8250U 16GB 256GB SSD 13.3 Inch Full HD Windows 10 Home 2-in-1 Laptop,858.92,4,13.3,Flash Memory Solid State,1.6,16,4.7,asus,0,i5
+381,"Lenovo Legion 5 15.6 Inch FHD 144 Hz Gaming Laptop (Intel Core i5, 8 GB RAM, 256 GB SSD, NVIDIA GeForce RTX 2060, Windows 10 Home) – Phantom Black 81Y6005TUK",952.9,63,15.6,Flash Memory Solid State,2.5,8,4.4,lenovo,1,i5
+382,"HP 14"" EliteBook 840 G3 Ultrabook - Full HD (1920x1080) Core i5-6300U 16GB DDR4 512GB SSD WebCam WiFi Windows 10 Professional 64-bit Laptop PC (Renewed)",589.0,715,14.0,SSD,2.4,16,4.1,hp,0,i5
+383,"Lenovo Thinkpad T450 Laptop, I5-5300U, 2.3GHZ, 500GB SATA Drive, 8GB RAM, With Windows 10 Professional (Renewed)",354.99,22,14.1,Others,2.3,8,4.2,lenovo,0,i5
+384,FANCY CHERRY® NEW 2018 HD 10 inch Mini Laptop Notebook Netbook Tablet Computer 1G DDR3 8GB Memory VIA WM8880 CPU Dual Core Android Screen Wifi Camera Keyboard USB HDMI (Black 8GB),109.0,241,10.0,SSD,1.5,1,3.0,other_brand,0,unknown
+385,"ASUS ZenBook S13 UX392FN Full HD 13.9"" Ultrabook Laptop (Intel i7 Processor, 16GB RAM, 512GB SSD, Nvidia MX150 Graphics, Backlit Keyboard, Windows 10 Professional) ,Blue",1099.99,11,13.9,Flash Memory Solid State,1.8,512,4.4,asus,1,i7
+386,"Lenovo Legion 5 15.6 Inch FHD Gaming Laptop (Intel Core i5, 8 GB RAM, 256 GB SSD, NVIDIA GeForce GTX 1650, Windows 10 Home) – Phantom Black",827.73,63,15.6,Flash Memory Solid State,2.5,8,4.4,lenovo,1,i5
+387,"Lenovo Legion 7 15.6 Inch FHD 144 Hz Gaming Laptop (Intel Core i7, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2080 Super Max-Q, Windows 10 Home) – Slate Grey",1499.99,10,15.6,Flash Memory Solid State,2.3,16,4.0,lenovo,1,i7
+388,"Hp 255 G7 (2D200EA#ABU) 15.6"" Full HD Laptop (Amd Ryzen 5 3500U, 8GB Ram, 256GB ssd, Windows 10 Pro)",649.98,1,15.6,SSD,2.1,8,5.0,hp,0,amd
+389,"HP EliteBook 840 G2 14-inch Ultrabook Laptop PC (Intel Core i5-5300U, 8GB RAM, 256GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit)(Renewed)",500.0,715,14.0,SSD,2.3,8,4.1,hp,0,i5
+390,"Lenovo V15 Athlon Gold 3150U 15.6-inch Laptop, AMD Athlon Gold 3150U, 8 GB RAM, 500 GB SSD, Windows 10 Pro",549.0,2,15.6,SSD,3.3,8,4.0,lenovo,0,amd
+391,"HP Chromebook X360 14c-ca0003na 14 Inch Full HD Touch-screen Display, (Silver) (Intel Pentium Gold 6405U, 4 GB RAM, 64 GB eMMC, 100 GB Google One, 1 Year Subscription Included)",449.99,1037,14.0,EMMC,2.4,4,4.5,hp,0,unknown
+392,"HP EliteBook 840 G1 14-inch Ultrabook (Intel Core i5 4th Gen, 4GB Memory, 320GB HDD, WiFi, WebCam, Windows 10 Professional 64-bit) (Renewed)",399.0,12,14.0,SATA,1.9,4,4.1,hp,0,i5
+393,"Dell Latitude E7240 Core i5-4300U, 8GB RAM, 128GB SSD (Renewed)",339.99,37,12.5,SSD,2.0,8,4.0,dell,0,i5
+394,"HP EliteBook 840 G2 14-inch Ultrabook Laptop PC (Intel Core i5-5300U, 16GB RAM, 256GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit)(Renewed)",419.99,715,14.0,SSD,2.3,16,4.1,hp,0,i5
+395,TOPOSH 10.1 Inch Windows 10 Laptop PC Mini Computer Notebook 2GB RAM+32GB SSD Intel Atom X5-Z8350 Quad-Core Graphics 1.92 GHz Supports TF Card Bluetooth 4.0 Wifi HDMI - White,189.99,135,10.1,SSD,1.92,2,3.8,other_brand,1,unknown
+396,"Dell Latitude E7270 12.5"" Core i5-6300U 8GB 256GB SSD WebCam HDMI WiFi BT Windows 10 Professional Laptop PC (Renewed)",389.98,1,12.5,SSD,2.4,8,5.0,dell,0,i5
+397,"Lenovo V15 ADA 15.6-inch Laptop, AMD Ryzen 5 3500U Quad Core APU, 20 GB RAM, 256 GB SSD, Windows 10 Home",679.0,1,15.6,SSD,3.7,20,4.0,lenovo,0,amd
+398,"ASUS ZenBook UX325JA 13.3 Inch IPS Full HD Laptop (Intel i7-1065G7, 16 GB RAM, 1 TB SSD, 32 GB Intel Optane Memory, Backlit Keyboard, Windows 10) Includes Sleeve and USB-C Dongle",1073.88,47,13.3,Flash Memory Solid State,1.3,16,4.3,asus,0,i7
+399,"Dell New XPS 15 9500 15.6 FHD+ Laptop, Intel Core i7-10750H (10th Gen), 8 GB RAM, 512 GB SSD, NVIDIA GTX 1650 Ti 4GB GDDR6, InfinityEdge Anti-Glare 500-Nit Display, Win 10 Home, Silver",1699.0,82,15.6,Flash Memory Solid State,5.0,8,4.1,dell,1,i7
+400,"ASUS A516MA 15.6"" FHD Intel Pentium Silver N5030 20GB DDR4 256GB NVMe SSD Intel UHD Graphics Backlit KB WIN 10 PRO",579.0,4,15.6,SSD,1.1,20,3.8,asus,1,unknown
+401,"Acer Swift 5 SF514-55T 14 inch Laptop - (Intel Core i7-1165G7, 8GB RAM, 512GB SSD, Full HD Touchscreen Display, Windows 10, Racing Green)",999.0,16,14.0,Flash Memory Solid State,4.7,8,3.8,acer,0,i7
+402,"Lenovo IdeaPad 3 15'' Laptop, Intel Core i3 Processor, 4GB RAM, 128GB Storage, Windows 10S - Business Black",429.99,2,15.6,Flash Memory Solid State,3.4,4,5.0,lenovo,0,i3
+403,"Razer Blade 15 Base Model (2020): Gaming Laptop with 15.6 Inch Full HD 144 Hz Base Model, Intel Core i7, NVIDIA GeForce RTX 2070, 16 GB RAM, 512 GB SSD, Chroma RGB Lighting | UK QWERTY Layout",1399.97,286,15.6,Flash Memory Solid State,5.0,16,4.3,other_brand,1,i7
+404,"ASUS Zephyrus GA502DU 15.6 Inch Full HD 144 Hz Gaming Laptop (AMD Ryzen 7 3750H, Nvidia GeForce GTX 1660Ti 6 GB, 16 GB RAM, 512 GB M.2 NVMe PCIe 3.0 SSD, Windows 10), Brushed Black",1099.99,30,15.6,Flash Memory Solid State,2.3,16,4.1,asus,1,amd
+405,"GPD Pocket 2 Celeron Edition Silver Windows 10 Portable Mini Laptop UMPC ; Intel Celeron, 7"" Display, 8GB RAM, 256GB SSD, Dual-Band Wi-Fi [S]",474.95,8,7.0,SSD,1.5,8,3.6,other_brand,0,unknown
+406,"Microsoft Surface Book 3 13.5-Inch Notebook (Silver) - (Intel i7, 32GB RAM, 512GB SSD, 1650 NVIDIA Graphics, Windows 10 Home, 2020 Model)",1979.0,59,13.0,Flash Memory Solid State,1.3,32,4.2,other_brand,1,i7
+407,BIGMAC 10.1 Inch Quad Core 8GB Computer Laptop PC Android 6.0 Mini Netbook Slim and Lightweight Notebook WiFi Webcam Netflix YouTube Google Player Flash (Pink),143.5,114,10.1,SSD,1.5,1,3.0,other_brand,0,unknown
+408,"HP EliteBook 820 G2 12.5 Inch Ultrabook (Intel Core i5 5th Gen, 8GB Memory, 256GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit) (Renewed)",319.99,36,12.5,SSD,2.3,8,4.0,hp,0,i5
+409,HP ELITEBOOK 840 G3 14 inches Touchscreen LAPTOP INTEL CORE I5-6200U 6th GEN 2.30GHZ WEBCAM 16GB RAM 256GB SSD WINDOWS 10 PRO 64BIT (Renewed),550.0,7,14.0,SSD,2.3,16,4.4,hp,0,i5
+410,"ASUS M509 15.6-inch Laptop, AMD Ryzen 3 3250U, 20 GB RAM, 1 TB SSD, Windows 10 Pro",749.0,4,15.6,SSD,3.5,20,3.6,asus,0,amd
+411,HP 14s-dq1504sa Full HD Intel Core i5-1035G1 8GB RAM 256GB SSD 14'' Laptop Windows 10 Home (64-bit),610.0,5,14.0,SSD,1.0,8,5.0,hp,0,i5
+412,"Dell Inspiron 5491 14-Inch FHD IPS Touchscreen 2-in-1 Laptop (Silver) Intel Core i7-10510U, 16GB RAM, 512GB SSD, FINGERPRINT READER, Windows 10 Home",1199.0,37,14.0,Flash Memory Solid State,1.8,512,4.3,dell,0,i7
+413,"Lenovo 14"" ThinkPad T450s Ultrabook - HDF+ (1600x900) Core i5-5300U 8GB 128GB SSD WebCam WiFi Bluetooth USB 3.0 Windows 10 Professional 64-bit PC Laptop (Renewed)",437.18,486,14.0,SSD,2.3,8,4.3,lenovo,0,i5
+414,"Dell G7 17.3 Inch FHD Gaming Laptop, Intel Core i5-10300H (10th Gen), 144 Hz 300 nits IPS Display, 8 GB RAM, 512 GB SSD, NVIDIA GeForce GTX 1660Ti 6 GB GDDR6, Win 10 Home",1279.37,12,17.3,Flash Memory Solid State,4.5,512,4.0,dell,1,i5
+415,"Microsoft Surface GO 2 10 Inch 2-in-1 Laptop and Tablet PC, Silver (Intel Pentium Gold Processor 4425Y, 8GB RAM, 128GB SSD, Windows 10, 2020 Model), with Surface Go 2 Type Cover, Black",604.49,397,10.0,Flash Memory Solid State,1.7,8,4.7,other_brand,0,unknown
+416,"HP Chromebook 14-db0500sa 14"" Laptop AMD A4-9120 4GB RAM 32GB eMMC Chrome OS - 5AT31EA#ABU",275.0,8,14.0,EMMC,2.2,4,4.4,hp,0,amd
+417,Lenovo Ideapad 5 i3 8GB 128GB 15.6 GREY,469.95,22,15.6,SSD,1.2,8,4.3,lenovo,0,i3
+418,"Acer ConceptD 3 Ezel Pro CC315-72P 15.6 Inch Creator Laptop (Intel Core i7-10750H, 16GB RAM, 1TB SSD, NVIDIA Quadro T1000, Full HD Touchscreen Display with Active Stylus, Windows 10 Pro, White)",1999.99,5,15.6,Flash Memory Solid State,2.6,16,5.0,acer,1,i7
+419,"Microsoft Surface Laptop 3 Ultra-Thin 13.5” Touchscreen Laptop (Matte Black) - Intel 10th Gen Quad Core i7, 16GB RAM, 512GB SSD, Windows 10 Home, 2019 Edition",1599.0,353,13.5,SSD,2.1,16,4.6,other_brand,0,i7
+420,"Apple MacBook Pro with Retina Display 13-inch Laptop (Intel i5 2.7 GHz, 8 GB RAM, 256 GB SSD, Intel HD, OS X Yosemite) - Silver - 2015 - MF840B/A (Renewed)",649.99,22,13.3,SSD,2.7,8,4.1,apple,0,i5
+421,"Lenovo IdeaPad Slim 1 11.6 Inch HD Laptop - (AMD A4, 4GB RAM, 64GB eMMC, Windows 10 Home S Mode) - Ice Blue",299.0,124,11.6,EMMC,1.5,4,4.4,lenovo,0,amd
+422,"ASUS ZenBook UX325JA 13.3"" IPS Full HD Laptop (Intel i5-1035G1, 8GB RAM, 512GB M.2 NVMe PCIe SSD + 32GB Intel Optane Memory, Backlit Keyboard, Windows 10)",693.7,47,13.3,Flash Memory Solid State,1.0,8,4.3,asus,0,i5
+423,"Microsoft Surface Laptop 3 Ultra-Thin 13.5” Touchscreen Laptop (Matte Black) - Intel 10th Gen Quad Core i5, 8GB RAM, 256GB SSD, Windows 10 Home, 2019 Edition",999.0,353,13.5,SSD,2.3,8,4.6,other_brand,0,i5
+424,"Lenovo Legion 5 Gaming Laptop, 15.6"" FHD (1920x1080) IPS Screen, AMD Ryzen 7 4800H Processor, 16GB DDR4, 512GB SSD, NVIDIA GTX 1660Ti, Windows 10, 82B1000AUS, Phantom Black",999.0,892,15.6,SSD,2.9,16,4.6,lenovo,1,amd
+425,"Apple MacBook Air 13"" (2017) - Core i5 1.8GHz, 8GB RAM, 128GB SSD (Renewed)",679.99,13,13.0,SSD,1.8,8,4.4,apple,0,i5
+426,"Acer Swift 5 SF514-54T 14-inch Laptop - (Intel Core i7-1065G7, 8GB RAM, 512GB SSD, Full HD Touchscreen Display, Windows 10, Blue)",849.97,16,14.0,Others,1.3,8,3.8,acer,0,i7
+427,2020 Jumper EZbook S5 14.0 inch 6GB RAM 64GB SSD CPU N3350 1920*1080 FHD IPS 1.25kg Light 4600mAh Notebook Windows 10 Laptop Windows,229.0,31,14.0,SSD,1.6,6,3.5,other_brand,0,unknown
+428,"ASUS ROG Strix G15 15"" i7 RTX 2070 Gaming Laptop",1365.23,3,15.0,SSD,2.6,8,5.0,asus,1,i7
+429,"Dell Latitude E5470 14"" Laptop - Intel Core i5-6200U 8GB DDR4 256GB SSD HDMI WebCam WiFi BT Fingerprint Backlit Windows 10 Pro (Renewed)",420.0,26,14.1,SSD,2.3,8,4.0,dell,0,i5
+430,"Lenovo Thinkpad X230 Renewed Laptop Core i5-3320M 2.60GHz 12.5in Widescreen Warranty Webcam (8GB Ram, 120GB SSD, Windows 10)",289.99,61,12.5,SSD,2.6,4,4.2,lenovo,0,i5
+431,"""Lenovo ThinkBook 15 15.6"" Laptop - Core i5 1.0GHz CPU, 8GB RAM, Windows 10"", grey",729.0,7,15.6,SSD,3.6,8,4.0,other_brand,0,i5
+432,"Lenovo Legion 7 15.6 Inch FHD Gaming Laptop (Intel Core i7, 2x 8 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2070, Windows 10 Home) - Slate Grey",1489.98,10,15.6,Flash Memory Solid State,2.3,16,4.0,lenovo,1,i7
+433,"ASUS ZenBook UM433DA Full HD 14"" Laptop (AMD Ryzen 5 3500U, 8GB RAM, 512GB PCIe SSD, Backlit Keyboard, Windows 10), Silver",652.93,103,14.0,Flash Memory Solid State,2.1,8,4.4,asus,0,amd
+434,Dell Latitude E6440 14in Core i5-4200M 8GB 240GB SSD HDMI WebCam WiFi Windows 10 Professional 64-Bit Laptop (Renewed),349.99,116,14.0,SSD,2.5,8,3.8,dell,0,i5
+435,"MSI GP76 Leopard 10UG-078UK FULL HD 144 Hz 17.3 Inch Gaming Laptop (Intel i7-10870H, NVIDIA GeForce RTX 3070 8 GB, 1TB NVMe PCIe Gen3x4 SSD, 16 GB RAM, Wi-Fi 6, Windows 10) Black",1898.99,2,15.6,SSD,4.8,16,5.0,other_brand,1,i7
+436,"Alienware Area 51m R2 17.3 Inch FHD Gaming Laptop, Intel Core i7-10700, 144 Hz 9ms 300-nits Display, 16 GB RAM, 512 SSD + 1 TB HDD, NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6, Win 10 Home",2799.0,39,17.3,Flash Memory Solid State,4.8,16,4.2,other_brand,1,i7
+437,"HP Stream 11-ak0018na 11.6 Inch Laptop, White (Intel Celeron N4020, 2 GB RAM, 32 GB eMMC, Windows 10 Home S) - Microsoft 365 (12 Month Free Subscription Included)",249.0,1,11.6,EMMC,1.1,2,4.0,hp,0,unknown
+438,"Lenovo V14-ADA 14-inch Laptop, AMD Ryzen 3 3250U, 8 GB RAM, 256 GB SSD, Windows 10 PRO",449.0,2,14.0,SSD,3.5,8,3.5,lenovo,0,amd
+439,HP - COMM SBSO MOBILE (6U) 255G7 R5-3500U 256GB 8GB 15.6IN DVD-WR W10H UK,618.99,6,15.6,Others,2.1,8,4.7,hp,0,unknown
+440,"ASUS ZenBook 13 UX325EA Full HD 13.3"" Laptop (Intel i5-1135G7, 8GB RAM, 512GB PCIe SSD, 32GB Intel Optane Memory, Windows 10) Includes LED NumberPad & Sleeve",819.98,103,13.3,Flash Memory Solid State,2.4,8,4.4,asus,0,i5
+441,Fast Lenovo ThinkPad T430 Windows 10 (64 Bit) Laptop Core i5 3rd Generation 2.6Ghz 8GB RAM 240Gb SSD Wifi DVDrw (Renewed),359.0,59,14.1,SSD,2.6,8,4.4,other_brand,0,i5
+442,"Lenovo Legion 7 15.6 Inch FHD 144 Hz Gaming Laptop (Intel Core i7, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2070 Super Max-Q, Windows 10 Home) – Slate Grey",1449.0,10,15.6,Flash Memory Solid State,2.3,16,4.0,lenovo,1,i7
+443,"Razer Blade 15 Gaming Laptop (2020): With 15.6 Inch Full HD-300 Hz, Intel Core i7, NVIDIA GeForce RTX 2080 S, 16 GB RAM, 512 GB SSD, CNC Aluminum, Chroma RGB Lighting | UK QWERTY Layout",2198.66,286,15.6,Flash Memory Solid State,5.1,16,4.3,other_brand,1,i7
+444,Dell Latitude E7240 UltraBook 12.5in Intel Core i5 1.9GHz 8GB RAM 128GB SSD WebCam Windows 10 Home 64-Bit (Renewed),339.99,9,12.5,SSD,1.9,8,3.6,dell,0,i5
+445,"HP Windows 10 Silver Laptop (15.6"" Full HD, Intel Pentium Gold, 4GB, 128GB SSD Hard Drive, Wireless, Webcam) + MS Office 365 + TechieHome Wireless Mouse + Laptop Bag + 3 Year Laptop Warranty",599.99,1,15.6,SSD,3.5,4,5.0,hp,0,unknown
+446,"Lenovo Legion 5 17.3 Inch FHD Gaming Laptop (Intel Core i7, 2x 8 GB RAM, 512 GB SSD, NVIDIA GeForce GTX 1660, Windows 10 Home) – Phantom Black",1149.97,3,17.3,Flash Memory Solid State,2.6,16,5.0,lenovo,1,i7
+447,"CHUWI HeroBook Plus 15.6 Inch Laptop, Intel Celeron J4125, 12GB RAM 256GB SSD, Windows 10 Home, Supports 1T SSD 128GB TF Card, Dual Wifi, 4K Video Decoding, Gigabit Ethernet, BT 5.1, HDMI, USB 3.0",439.0,66,15.6,SSD,2.0,12,3.7,other_brand,0,unknown
+448,TOPOSH Windows 10 Laptop 10.1 Inch PC Mini Notebook Computer 2GB RAM+32GB SSD Intel Atom X5-Z8350 Quad-Core Graphics 1.92 GHz with TF slot Bluetooth 4.0 Wifi HDMI - Green,189.99,135,10.1,SSD,1.92,2,3.8,other_brand,1,unknown
+449,Windows 10 Lenovo T460 i5-6300U Laptop PC - 8GB DDR4 - 512GB SSD - Webcam - Wi-Fi (Renewed),475.0,4,14.0,SATA,2.6,8,5.0,other_brand,0,i5
+450,BIGMAC Windows 10 Computer Laptop Mini 10.1 Inch 32GB Ultra Thin and Light Netbook Intel Quad Core CPU PC HDMI WIFI USB Netflix Youtube (Pink)…,205.0,100,10.1,SSD,1.96,2,3.7,other_brand,0,unknown
+451,"HONOR MagicBook 14 – 14 Inch Laptop w/ FullView 1080P Screen, All-Day Battery, 65 W Fast Charger, Fingerprint Login & Recessed Camera (AMD Ryzen 5, 8 GB RAM, 256 GB SSD, Windows 10 Home) Space Gray",549.99,328,14.0,Flash Memory Solid State,1.8,8,4.6,other_brand,0,amd
+452,BIGMAC Windows 10 Computer Laptop Mini 10.1 Inch 32GB Ultra Thin and Light Netbook Intel Quad Core CPU PC HDMI WIFI USB Netflix Youtube (Black)…,199.0,100,10.1,SSD,1.96,2,3.7,other_brand,0,unknown
+453,Lenovo ThinkPad T440p 14.1 inches i5-4300M 8GB 512GB SSD DVDRW WebCam USB 3.0 WiFi Bluetooth Windows 10 Professional 64-bit Laptop PC Computer (Renewed),385.0,50,14.0,SSD,2.6,8,4.3,lenovo,0,i5
+454,"ASUS TUF FA706II 17.3"" Full HD Gaming Laptop (AMD Ryzen 5 4600H, Nvidia GeForce GTX 1650Ti 4GB Graphics, 512G PCI-e SSD, 8GB RAM, Windows 10)",913.5,47,17.3,Flash Memory Solid State,3.0,8,4.4,asus,1,amd
+455,"Lenovo Legion 5 15.6 Inch FHD 144 Hz Gaming Laptop (Intel Core i5, 8 GB RAM, 512 GB SSD, NVIDIA GeForce GTX 1650 Ti, Windows 10 Home) – Phantom Black",840.14,63,15.6,Flash Memory Solid State,2.5,8,4.4,lenovo,1,i5
+456,HP ELITEBOOK 840 G3 14in Touchscreen LAPTOP INTEL CORE i5-6200U 6th GEN 2.30GHZ WEBCAM 16GB RAM 240GB SSD WINDOWS 10 PRO 64BIT (Renewed),530.0,8,14.0,SSD,2.3,16,3.4,hp,0,i5
+457,"ASUS VivoBook Flip with Microsoft Office 365 TP401MA 14"" Touchscreen Convertible Laptop (Intel Pentium N5030, 4 GB RAM, 128 GB SSD, Windows 10 Home) Includes 1 Year Microsoft Office 365",399.99,2661,14.0,HDD,1.1,4,4.0,asus,0,unknown
+458,"Lenovo V15 ADA (82C70006UK) 15.6"" Laptop (Iron Grey) (AMD Ryzen 5 3500U / 2.6-GHz Processor, 8GB RAM, 256GB SSD, Full HD (1920 x 1080) Display, Windows 10 Pro)",577.98,5,15.6,SSD,2.1,8,3.3,lenovo,0,amd
+459,"Apple MacBook Pro (13-inch, 16GB RAM, 512GB SSD Storage, Magic Keyboard) - Silver (Latest Model)",1555.0,843,13.0,Flash Memory Solid State,2.0,512,4.7,apple,0,unknown
+460,"ASUS Zephyrus G14 GA401QM 14 inch Full HD 144Hz Gaming Laptop (AMD Ryzen 7-5800HS, Nvidia GeForce RTX 3060, 16GB RAM, 1TB SSD, Windows 10) With LED lighting, Grey with LED",1599.99,24,14.0,SSD,3.0,16,3.9,asus,1,amd
+461,Samsung Galaxy Book Flex 15.6 Inch 8 GB Intel Core i7-1065G7 Processor Laptop - Royal Blue (UK Version),1529.99,55,15.6,Flash Memory Solid State,1.3,8,4.7,other_brand,0,i7
+462,"Apple MacBook Pro with Retina Display 13-inch Laptop (Intel Dual Core i5 2.4 GHz, 8 GB RAM, 256 GB HDD, Iris Pro Graphics, OS X) - Silver - 2013 - ME865B/A (Renewed)",649.99,21,13.3,HDD,2.4,8,4.2,apple,1,i5
+463,"GPD Pocket 2 - Celeron Amber Black Edition - Windows 10 Portable Laptop with 7"" Touchscreen - Intel® Celeron® 3965Y ; UHD Graphics 615 ; 8GB RAM ; 256GB Storage ; UMPC [AB-256GB]",474.95,43,7.0,SSD,1.5,8,4.3,other_brand,1,unknown
+464,"Lenovo ThinkPad X260 12.5"" Ultrabook - Core i5-6300U 2.4GHz, 8GB RAM, 256GB SSD, HDMI, WiFi, WebCam, Windows 10 Professional 64-bit (Renewed)",365.0,13,12.5,SSD,2.4,8,4.1,lenovo,0,i5
+465,"Gigabyte AERO 15-KC 15.6"" Laptop, UHD, AMOLED, Intel Core i7-10870H, 16GB DDR4, 512GB NVMe SSD, NVIDIA GeForce RTX 3060 GDDR6 6GB, Windows 10 Pro",1675.61,1,15.6,SSD,5.0,16,2.0,other_brand,1,i7
+466,Lenovo ThinkPad X240 12.5in (1366x768) 4th Gen Intel Core i5-4210Y 4GB 500GB Windows 10 Professional 64-bit Laptop PC (Renewed),270.0,27,12.5,HDD,1.5,4,3.8,lenovo,0,i5
+467,FANCY CHERRY® NEW 2018 HD 10 inch Mini Laptop Notebook Netbook Tablet Computer 1G DDR3 8GB Memory VIA WM8880 CPU Dual Core Android Screen Wifi Camera Keyboard USB HDMI,109.0,75,10.0,SATA,1.5,1,2.9,other_brand,0,unknown
+468,"New Apple iMac (21.5-inch, 8GB RAM, 256GB SSD Storage)",1019.52,26,21.5,Flash Memory Solid State,2.3,256,4.1,other_brand,0,unknown
+469,"New Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD) - Silver (Latest Model)",1189.0,774,13.3,Flash Memory Solid State,3.1,8,4.7,other_brand,0,unknown
+470,HP ELITEBOOK 850 G3 LAPTOP INTEL CORE I5-6300U 6th GEN 2.40GHZ WEBCAM 8GB RAM 256GB SSD WINDOWS 10 PRO 64BIT (Renewed),599.99,4,15.6,SSD,2.4,8,4.1,hp,0,i5
+471,"Dell Inspiron 14 5000 Series 2-in-1 14 Inch FHD Touchscreen Convertible 2020 Laptop (Silver) Intel Core i3-10110U 10th Gen, 4 GB RAM, 256 GB SSD, Windows 10 Home",748.0,170,14.0,Others,4.1,256,4.4,dell,0,i3
+472,"Lenovo V15 15.6"" Laptop - Ryzen 3 2.6GHz CPU, 8GB RAM, Radeon, Windows 10 Pro",466.41,7,15.6,SSD,2.6,8,4.1,lenovo,0,unknown
+473,"ASUS ROG Zephyrus S15 GX502LXS Full HD 300 Hz 15.6 Inch Gaming Laptop (Intel i7-10875H, NVIDIA GeForce RTX 2080 Super 8 GB, 32 GB RAM, 1TB M.2 NVMe PCIe 3.0, Per Key RGB, Windows 10) ,Brushed Black",2350.97,2,15.6,Flash Memory Solid State,2.3,16,2.4,asus,1,i7
+474,"Acer Chromebook Spin 13 CP713-2W - (Intel Core i3-10110U, 8GB RAM, 128GB eMMC, 13.5 inch QHD 3:2 Touchscreen Display, Chrome OS, Iron)",549.99,4,13.5,EMMC,4.1,8,4.3,acer,0,i3
+475,"ASUS ROG Zephyrus G14 G401IV WQHD 14"" IPS Level Gaming Laptop (AMD Ryzen 9 4900HS, NVIDIA GeForce RTX 2060 6GB, 1TB M.2 NVMe SSD, 16GB RAM, Windows 10) Includes LED Lighting, White with LED",1799.99,24,14.0,Flash Memory Solid State,3.0,16,3.9,asus,1,amd
+476,"HP Stream 11-ak0502sa 11.6"" Laptop Intel Celeron N4000 2GB RAM 32GB eMMC Diamond White Windows 10 S - 5AT59EA#ABU",275.0,18,11.6,EMMC,1.1,2,4.1,hp,0,unknown
+477,"Lenovo IdeaPad L340 15.6 Inch FHD Gaming Laptop (Intel Core i5, 8 GB RAM, 256 GB SSD, Windows 10 Home) - Granite Black",749.97,44,15.6,Flash Memory Solid State,2.4,8,4.6,lenovo,1,i5
+478,"DELL LATITUDE E6330 13"" LAPTOP INTEL CORE i5-3340M 3rd GEN 2.7GHZ 8GB RAM 320GB HDD DVD WEBCAM WINDOWS 10 PRO 64BIT (Renewed)",349.99,12,13.3,SATA,2.7,8,4.1,dell,0,i5
+479,"Apple MacBook Air MD711LL/B - 11.6-Inch Laptop (4GB RAM, 128 GB HDD, OS X Mavericks) (Renewed)",422.0,220,11.6,SSD,1.4,4,4.5,apple,0,unknown
+480,DELL - NOTEBOOK B2B LATITUDE 3510 I5-10210U 8GB 1TB 15.6IN NO OPT W10 IN,730.0,1,15.6,HDD,1.6,8,4.0,dell,0,i5
+481,HP ELITEBOOK 840 G3 LAPTOP INTEL CORE I5-6200U 6th GEN 2.3GHZ WEBCAM 16GB RAM 256GB SSD WINDOWS 10 PRO 64BIT (Renewed),559.99,5,14.0,SSD,2.3,16,2.9,hp,0,i5
+482,"HP Chromebook X360 14c-ca0005na 14 Inch Full HD Touch-screen Display, (Silver) (10th Generation Intel Core i5-10210U, 8 GB RAM, 128 GB eMMC, 100GB Google One, 1 Year Subscription Included)",639.0,1039,14.0,EMMC,1.6,8,4.5,hp,0,i5
+483,"Dell Inspiron 14 5000 Series 2-in-1 14 Inch FHD IPS Touchscreen Convertible 2020 Laptop (Silver) Intel Core i5-10210U 10th Gen, 8 GB RAM, 256 GB SSD, Windows 10 Home",899.0,170,14.0,SSD,4.4,8,4.4,dell,0,i5
+484,"Alienware m17 R2 17.3 Inch FHD 144Hz 9 ms Gaming Laptop (Intel Core i7-9750H, 16 GB RAM, 1 TB HDD, NVIDIA Geforce RTX 2070 Max-Q with 8 GB GDDR6, Tobii Eyetracking Technology, W10) in Lunar Light",2235.14,39,17.3,Flash Memory Solid State,4.5,16,4.2,other_brand,1,i7
+485,Lenovo ThinkPad X230 12.5in (1366x768) 3rd Gen Intel Core i5-3320M 4GB 320GB WebCam Windows 10 Professional 64-bit (Renewed),298.0,31,12.5,HDD,2.6,4,4.0,lenovo,0,i5
+486,"HP EliteBook 840 G3 14 inches Laptop - Core i5 2.3GHz CPU, 8GB RAM, 256GB SSD, Windows 10 Pro (Renewed)",440.0,13,14.0,SSD,2.3,8,3.7,hp,0,i5
+487,"Dell XPS 15 7590 15.6 inch IPS OLED Laptop, 9th Generation Intel Core i7-9750H, 32 GB RAM, 1 TB SSD, NVIDIA GeForce GTX 1650 4GB GDDR5, Fingerprint Reader, Win 10 Home",2099.0,82,15.6,Flash Memory Solid State,4.5,32,4.1,dell,1,i7
+488,"HP OMEN 15-dh1005na 15.6 Inch Full HD, 144 Hz Gaming Laptop, Intel Core i7-10750H, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2060 (6 GB Dedicated) Graphics, Windows 10 Home - Black",1299.99,307,15.6,Flash Memory Solid State,2.6,16,4.6,hp,1,i7
+489,BIGMAC 10.1 Inch Quad Core 8GB Computer Laptop PC Android 6.0 Mini Netbook Slim and Lightweight Notebook WiFi Webcam Netflix YouTube Google Player Flash (Black),143.5,114,10.1,SSD,1.5,1,3.0,other_brand,0,unknown
+490,"Lenovo Legion 7 15.6 Inch FHD 240 Hz Gaming Laptop (Intel Core i7, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2070 Max-Q, Windows 10 Home) – Slate Grey",1399.99,10,15.6,Flash Memory Solid State,2.6,16,4.0,lenovo,1,i7
+491,"ASUS Zenbook UX334FLC 13.3"" Full HD Thin Laptop (Intel i7-10510U, NVIDIA GeForce MX250 2 GB Graphics, 16 GB RAM, 1TB SSD, ScreenPad 2.0, Windows 10), Royal Blue",1208.84,76,13.0,Flash Memory Solid State,1.8,16,4.1,asus,1,i7
+492,"HP 15s-fq1003na 15.6 Inch Full HD IPS Laptop - (Silver) (Intel Core i5-1035G1, 8 GB, 512 GB SSD, Windows 10 Home)",579.99,480,15.6,Flash Memory Solid State,1.0,8,4.6,hp,0,i5
+493,"HP Pavilion 15-ec1001na 15.6 Inch Full HD Gaming Laptop - (Shadow Black) (AMD Ryzen 5 4600H, NVIDIA GeForce GTX 1650 (4 GB Dedicated) Graphics, 8 GB RAM, 256 GB SSD, Windows 10 Home)",649.99,455,15.6,Flash Memory Solid State,3.0,8,4.7,hp,1,amd
+494,Samsung Chromebook 5 series XE500C21 Intel Atom N570 1.66GHz 2GB 16GB MSATA Webcam Samsung Chromebook 5 series XE500C21 Intel Atom N570 1.66GHz 2GB 16GB MSATA Webcam (Renewed),159.99,5,12.1,SSD,1.66,2,3.1,other_brand,0,unknown
+495,"Dell Latitude 5410 14"" FHD laptop (Black) Intel Core i5-10210U, 8 GB RAM, 256 GB SSD, Win 10 Pro",999.0,2,14.0,Flash Memory Solid State,1.6,8,4.5,dell,0,i5
+496,"Dell New XPS 15 9500 15.6 FHD+ InfinityEdge Anti-Glare 500-Nit Laptop, Intel Core i5-10300H (4.5 GHz), 8 GB RAM, 512 GB NVMe SSD, NVIDIA GTX 1650 Ti 4GB GDDR6, Win 10 Home",1749.0,82,15.6,Flash Memory Solid State,4.5,8,4.1,dell,1,i5
+497,"TOPOSH 11.6 inch Windows 10 PC Laptop Tablet Computer Notebook 2 in 1 with Touch Screen, Intel Celeron Quad Core N4100 2.4 GHz Processor 8GB RAM 128 GB SSD- Silver",309.99,4,11.6,SSD,1.1,8,2.1,other_brand,0,unknown
+498,"ASUS A509JA 15.6"" IPS FHD, i3-1005G1, Intel UMA, 8GB DDR4, 1TB NVMe SSD, Chiclet KB, WiFi 5, BT 4.1, WIN 10 PRO",679.0,8,15.6,SSD,3.4,8,4.8,asus,0,i3
+499,"Alienware m15 R2 15.6 Inch FHD 144Hz with Tobii Eye Tracker Gaming Laptop - (Lunar Light) Intel Core i7-9750H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2070 Max-Q with 8 GB GDDR6, Windows 10 Home",2104.85,14,15.6,Flash Memory Solid State,4.5,16,4.0,other_brand,1,i7
+500,"Asus X509 15.6-inch Laptop, Intel Core i5-1035G1, 8 GB RAM, 512 GB SSD, Windows 10 Pro",699.0,1,15.6,SSD,3.6,8,1.0,asus,0,i5
+501,"Dell XPS 13 13.3 Inch 4K UHD Thin and Light, InfinityEdge Touchscreen 2019 Laptop (Silver) Intel Core i7-8565U, 16 GB RAM, 512 GB SSD, Windows 10 Home",1598.99,52,13.3,Flash Memory Solid State,4.6,16,4.4,dell,0,i7
+502,BIGMAC 10.1 Inch Quad Core 8GB Computer Laptop PC Android 6.0 Mini Netbook Slim and Lightweight Notebook WiFi Webcam Netflix YouTube Google Player Flash (White),143.5,114,10.1,SSD,1.5,1,3.0,other_brand,0,unknown
+503,"DELL XPS 15 7590 4K UHD Nontouch, hexa core intel i7-9750H up to 4.5 GHz, 32GB RAM, 1TB SSD, NVIDIA(R) GeForce(R) GTX 1650 4GB GDDR5, WINDOWS 10",2098.0,3,15.6,SSD,4.5,32,2.8,dell,1,i7
+504,"ASUS ROG Zephyrus M15 GU502LW 15.6"" Ultra-HD (4K) Gaming Laptop (Intel i7-10875H 8-Core, NVIDIA GeForce RTX 2070 8GB, 16GB RAM, 1TB SSD, Per Key RGB Keyboard, Windows 10)",1753.6,2,15.6,Flash Memory Solid State,2.3,16,5.0,asus,1,i7
+505,"LENOVO CHROMEBOOK N22 11.6"" INTEL CELERON N3060 1.60 GHZ 4GB RAM 16GB SSD WEBCAM CHROME OS (Renewed)",129.99,3,11.6,SSD,1.6,4,5.0,lenovo,0,unknown
+506,"ASUS Chromebook Flip C436FA 14 Inch Full HD Touchscreen Laptop (Intel i5-10210U, 8GB RAM, 256GB M.2 NVMe PCIe SSD, Backlit Keyboard) - Includes Stylus Pen, Aerogel White",799.0,705,14.0,Flash Memory Solid State,1.6,8,4.5,asus,0,i5
+507,"Lenovo Yoga C930 13.9 Inch 4K 2-in-1 Convertible Laptop, (Intel Core i7 Processor, 8 GB RAM, 512 GB SSD, Windows 10 Home), Iron Grey",1499.99,5,13.9,Flash Memory Solid State,1.8,8,4.1,lenovo,0,i7
+508,"Dell XPS 13 7390 2-in-1 13.4 Inch FHD WLED, Thin and Light, Infinity Edge Touchscreen 2019 Laptop (Platinum Silver), Intel Core i7-1065G7, 16 GB RAM, 512 GB SSD, FINGERPRINT READER, Windows 10 Home",1300.0,37,13.4,Flash Memory Solid State,1.3,16,4.1,dell,0,i7
+509,"HP 255 G8 15.6-inch Laptop, AMD Ryzen 5 3500U Quad Core APU, 32 GB RAM, 2 TB SSD, Windows 10 Pro",1049.0,7,15.6,SSD,3.7,32,4.7,hp,0,amd
+510,"Apple MacBook Pro 13 (Early 2011) - Core i5 2.3 GHz, 4GB RAM, 320GB HDD (Renewed)",500.0,54,13.0,HDD,2.3,4,4.4,apple,0,i5
+511,"ASUS VivoBook X413FA Full HD 14 Inch Laptop (Intel i7-10510U, 8 GB RAM, 512 GB M.2 NVMe PCIe SSD + 32 GB Intel Optane Memory, Windows 10), Includes reversible USB 3.2 Type-C port, Black",754.14,83,14.0,Flash Memory Solid State,1.8,8,4.2,asus,0,i7
+512,"HP OMEN 15-dh1013na 15.6 Inch Full HD, 144 Hz Gaming Laptop, Intel Core i7-10750H, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2080 Super (8 GB Dedicated) Graphics, Windows 10 Home - Black",1699.97,307,15.6,Flash Memory Solid State,2.6,16,4.6,hp,1,i7
+513,"ASUS VivoBook 14"" Laptop",650.0,53,14.0,Others,2.3,4,4.4,asus,0,unknown
+514,HP ELITEBOOK 840 G3 14in Touchscreen LAPTOP INTEL CORE i5-6200U 6th GEN 2.30GHZ WEBCAM 16GB RAM 180GB SSD WINDOWS 10 PRO 64BIT (Renewed),529.19,23,14.0,SSD,2.3,16,3.8,hp,0,i5
+515,"ASUS Chromebook C423NA (Silver) (Intel Celeron N3350, 4 GB RAM, 32 GB eMMC, 14 Inch HD Screen, Chrome OS)",258.9,262,14.0,Others,1.1,4,4.3,asus,0,unknown
+516,"Dell Latitude E7470 14 Inch Laptop (Black) - (Intel Core-i7 2.6 GHz, 8 GB RAM, 256 GB SSD, Intel HD Graphics 520, Windows 10 Pro) (Renewed)",545.0,3,14.0,SSD,2.6,8,4.6,dell,1,i7
+517,"Dell XPS 13 13.3 Inch FHD Thin and Light, InfinityEdge 2019 Laptop (Silver) Intel Core i5-8265U, 8 GB RAM, 256 GB SSD, Windows 10 Home",1199.0,10,13.3,Flash Memory Solid State,4.1,8,4.3,dell,0,i5
+518,"Dell G3 15.6 inch FHD 60Hz 300 nits IPS Anti- Glare LED Backlit Narrow Border Gaming Laptop, Intel Core i7-10750H, 8 GB RAM, 512 GB SSD, NVIDIA GeForce GTX 1660Ti 6GB GDDR6, Win 10 Home",1099.0,46,15.6,Flash Memory Solid State,5.0,8,4.2,dell,1,i7
+519,"ASUS Zephyrus GA503QM 15.6 QHD 165Hz Gaming Laptop (AMD Ryzen 7-5800H, Nvidia GeForce RTX 3060, 16GB RAM, 1TB SSD)",1599.99,2,15.6,SSD,3.0,16,5.0,asus,1,amd
+520,"HP Stream 14-cm0506sa (7BL21EA) 14"" Full HD Laptop - (Grey) (AMD A4-9125, 4GB RAM, 64GB eMMC, Windows 10 S)",399.0,9,14.0,EMMC,2.3,4,3.9,hp,0,amd
+521,"Dell XPS 15 7000 15.6-inch UHD IPS OLED Infinity Laptop - (Silver) Intel Core i7-9750H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce GTX 1650 4 GB, Fingerprint Reader, Windows 10 Home",1500.0,12,15.6,Flash Memory Solid State,4.5,16,3.7,dell,1,i7
+522,Lenovo ThinkBook 14 Core i7-1065G7 16GB 512GB SSD 14 Inch Full HD Windows 10 Home Laptop,797.99,8,14.0,SSD,1.0,16,4.8,lenovo,0,i7
+523,"FANCY CHERRY HD 15.6 inch Laptop Windows 10 Home Notebook Intel Atom Quad Core Ultrabook with USB 3.0 HDMI, Thin and Lightweight PC Computer",279.0,79,15.6,EMMC,1.44,4,3.6,other_brand,0,unknown
+524,"New Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 512GB SSD) - Silver (Latest Model)",1349.0,774,13.3,Flash Memory Solid State,3.1,8,4.7,other_brand,0,unknown
+525,"Lenovo ThinkPad T440 Black 14” Laptop Core i5-4300U, 1.90GHz, 8GB RAM, 256GB SSD with Windows 10 Pro (12 Months RTB Warranty) (Renewed)",409.99,2,14.0,SSD,1.9,8,4.5,lenovo,0,i5
+526,HP ELITEBOOK 840 G3 LAPTOP INTEL CORE I5-6200U 6th GEN 2.3GHZ WEBCAM 8GB RAM 256GB SSD WINDOWS 10 PRO 64BIT (Renewed),440.0,7,14.0,SSD,2.3,8,4.1,hp,0,i5
+527,HP ELITEBOOK 2570P 12.5in CORE I5 3RD GEN 4GB RAM 250GB HDD WEBCAM WINDOWS 10 HOME 64BIT (Renewed),199.99,1,12.5,HDD,2.5,4,5.0,hp,0,i5
+528,"New Apple MacBook Air with Apple M1 Chip (13-inch, 8GB RAM, 512GB SSD) - Silver (Latest Model)",1149.0,673,13.3,Flash Memory Solid State,3.1,8,4.8,other_brand,0,unknown
+529,"Apple MacBook Pro (16-Inch, 16GB RAM, 1TB Storage) - Silver",2470.0,646,16.0,Flash Memory Solid State,1.6,16,4.6,apple,0,unknown
+530,"Alienware Area 51 m 17.3 Inch FHD 144 Hz Eyesafe IPS Tobii Eye Tracker Gaming Laptop (Black) Intel Core i7-9700, 16 GB RAM, 512 GB SSD + 1TB HDD, NVIDIA GeForce RTX OC 2070 8 GB GDDR6, Windows 10 Home",2446.41,14,17.3,Flash Memory Solid State,4.7,16,4.0,other_brand,1,i7
+531,"Lenovo Legion 7 15.6 Inch FHD 240 Hz Gaming Laptop (Intel Core i7, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2060, Windows 10 Home) – Slate Grey",1417.9,10,15.6,Flash Memory Solid State,2.6,16,4.0,lenovo,1,i7
+532,"Apple MacBook Pro (16-Inch, 16GB RAM, 1TB Storage) - Space Grey",2470.0,646,16.0,Flash Memory Solid State,1.6,16,4.6,apple,0,unknown
+533,LENOVO - PC MOBILE TOPSELLER 100E CHROME G2 CEL_N4020 4GB/32GB 11.6IN CHROME_FREE UK,248.49,8,11.6,SSD,1.1,4,4.8,lenovo,0,unknown
+534,"New Apple MacBook Air with Apple M1 Chip (13-inch, 8GB RAM, 512GB SSD) - Space Grey (Latest Model)",1149.0,673,13.3,Flash Memory Solid State,3.1,8,4.8,other_brand,0,unknown
+535,"HP EliteBook 840 G1 14-inch Ultrabook Laptop PC (Intel Core i5 4th Gen, 8GB RAM, 512GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit)(Renewed)",478.98,715,14.0,SSD,1.6,8,4.1,hp,0,i5
+536,"MSI GS66 Stealth 10SGS-071 - 15.6 Inch Full HD 300hz Gaming Laptop, Intel Core i7-10750H, NVIDIA GeForce RTX 2080 Super Max-Q, 16 GB RAM, 1TB NVMe SSD, Windows 10 Home",1999.97,10,15.6,SSD,2.6,16,3.7,other_brand,1,i7
+537,"HP Pavilion 17-cd1007na 17.3 Inch Full HD Gaming Laptop - (Shadow Black) (Intel Core i5-10300H, NVIDIA GeForce GTX 1650 Ti (4 GB Dedicated) Graphics, 8 GB RAM, 512 GB SSD, 1 TB HDD, Windows 10 Home)",846.1,455,17.3,Others,2.5,8,4.7,hp,1,i5
+538,"Acer Aspire 5 A515-54G 15.6-inch Laptop - (Intel Core i7-10510U, 8GB RAM, 512GB SSD, Nvidia GeForce MX250, Full HD Display, Windows 10, Silver)",730.47,45,15.6,Others,1.8,8,4.4,acer,1,i7
+539,"HP Envy 13-aq0000na 13.3-Inch FHD Touch-screen Laptop, Intel Core i5-8265U, 8 GB RAM, 256 GB SSD, NVIDIA GeForce MX250 (2 GB GDDR5 Dedicated) Graphics, Windows 10 Home - Silver",999.99,36,13.3,Flash Memory Solid State,1.6,8,4.4,hp,1,i5
+540,"Jumper EZpad GO 2 in 1 Laptop with Stylus Pen, 11.6 Inch IPS Touchscreen Tablet Lightweight, Intel 4GB RAM 128GB eMMC Windows 10 Supports up to 128GB TF Card Extension",319.99,412,11.6,Flash Memory Solid State,2.2,6,4.3,other_brand,0,unknown
+541,"Razer Blade 15 Advanced Model 2019 (15.6 Inch 4K OLED Display) Gaming Notebook (Intel Core i7-9750H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 2080 Max-Q, Win 10, UK-Layout), Black",2393.46,178,15.6,Flash Memory Solid State,4.5,16,4.3,other_brand,1,i7
+542,"BLACK HP CHROMEBOOK 14"" G4 INTEL CELERON N2840 2.16 GHZ 4GB RAM 16GB SSD WEBCAM CHROME OS (Renewed)",219.99,164,14.0,SSD,2.16,4,4.2,hp,0,unknown
+543,HP 650 G1 15.6-inch ProBook Notebook Intel Core i5 2.50 GHz Processor 8GB RAM 240GB HDD WebCam USB 3.0 Windows 10 Pro(Renewed),495.0,1,15.6,SSD,2.4,8,5.0,hp,0,i5
+544,"Lenovo 14"" ThinkPad T450 Ultrabook - HDF+ (1600x900) Core i5-5300U 16GB 128GB SSD WebCam WiFi Bluetooth USB 3.0 Windows 10 Professional 64-bit PC Laptop (Renewed)",486.99,486,14.0,SSD,2.3,16,4.3,lenovo,0,i5
+545,"Dell G5 15.6 inch FHD 120Hz 250 nits WVA Anti-Glare Gaming laptop, Intel Core i5-10300H (4.5 GHz), 8 GB RAM, 512 GB SSD, NVIDIA GeForce GTX 1660Ti 6GB GDDR6, Win 10 Home",1049.0,46,15.6,Flash Memory Solid State,4.5,8,4.2,dell,1,i5
+546,"Dell XPS 13 7390 13.3 Inch FHD InfinityEdge Laptop, Intel Core i5-10210U Processor (4.2 GHz), 8 GB RAM, 256 GB NVMe SSD, Fingerprint Reader, Windows 10 Home, silver",799.0,35,13.3,Flash Memory Solid State,4.2,8,4.2,dell,0,i5
+547,"HP 11a 11.6"" Chromebook - Intel® Celeron™, 16 GB eMMC, Grey",219.99,4,11.6,EMMC,1.1,4,5.0,hp,0,unknown
+548,"HP 15s-eq0031na 15.6 Inch Full HD Laptop - (White) (AMD Ryzen 5 3450U, 8 GB RAM, 256 GB SSD, Windows 10 Home)",499.99,480,15.6,Flash Memory Solid State,2.1,8,4.6,hp,0,amd
+549,"HP ENVY x360 13-ar0001na 13.3 Inch FHD Touch-Screen Convertible Laptop - (Black) (AMD Ryzen 5-3500U Quad Core, 8 GB RAM, 256 GB SSD, AMD Radeon Vega 8 Graphics, Windows 10 Home)",986.0,45,13.3,Flash Memory Solid State,2.1,8,4.4,hp,1,amd
+550,"ASUS ROG Zephyrus G14 - GA401II 14"" Full HD 120Hz Gaming Laptop (AMD Ryzen 7 4800H, Nvidia GeForce GTX 1650Ti 6GB Graphics, 512GB PCI-e SSD, 16GB RAM, Windows 10), Grey",1403.72,38,14.0,Flash Memory Solid State,2.9,16,4.7,asus,1,amd
+551,"Acer Chromebook 14 CB514-1HT - (Intel Pentium N4200, 4GB RAM, 128GB eMMC, 14 inch Full HD touchscreen display, Chrome OS, Gold)",464.84,79,14.0,Flash Memory Solid State,1.1,4,4.5,acer,0,unknown
+552,"Microsoft Surface Book 3 13.5-Inch Notebook (Silver) - (Intel i5, 8GB RAM, 256GB SSD, Windows 10 Home, 2020 Model)",1415.0,59,13.0,Flash Memory Solid State,1.2,8,4.2,other_brand,0,i5
+553,DELL - NOTEBOOK B2C VOSTRO 3501 I3-1005G1 8GB 256GB 15.6IN W10P UK,650.0,1,15.6,SSD,1.2,8,5.0,dell,0,i3
+554,"MSI GE66 Raider 10SF-041 - 15.6 Inch Full HD 240hz Gaming Laptop, Intel Core i7-10750H, NVIDIA GeForce RTX 2070, 16 GB RAM, 1TB NVMe SSD, Windows 10 Home",1715.46,19,15.6,SSD,2.6,16,4.2,other_brand,1,i7
+555,"Razer Blade 15 Base Model (2020): Gaming Laptop with 15.6 Inch 4K-OLED Base Model, Intel Core i7, NVIDIA GeForce RTX 2070, 16 GB RAM, 512 GB SSD, Chroma RGB Lighting | UK QWERTY Layout",1529.98,286,15.6,Flash Memory Solid State,5.0,16,4.3,other_brand,1,i7
+556,"Dell G7 7790 17.3-inch FHD IPS Gaming Laptop - (Abyss Grey) Intel-Core i5-9300H, 8 GB RAM, 128 GB SSD + 1 TB HDD, NVIDIA GeForce GTX 1660 Ti with 6GB GDDR6, Fingerprint reader, Windows 10 Home",1045.67,12,17.3,Flash Memory Solid State,4.0,8,4.0,dell,1,i5
+557,"Lenovo X230 12in Intel Core i5 2.60GHz, 8GB Ram, 256GB SSD, Windows 10 Professional (Renewed)",319.99,3,12.5,SSD,2.6,8,3.8,lenovo,0,i5
+558,"HP OMEN 15-dc1044na 15.6 Inch FHD 144HZ Gaming Laptop, Intel Core i7-9750H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2060 (6 GB Dedicated) Graphics, Windows 10 Home - Black",1499.0,89,15.6,Flash Memory Solid State,2.6,16,4.2,hp,1,i7
+559,"Lenovo IdeaPad Flex 3 11.6 Inch HD 2-in-1 Laptop - (Intel Celeron, 4 GB RAM, 32 GB eMMC, Chrome OS) - Almond",319.0,75,11.6,EMMC,1.1,4,4.5,lenovo,0,unknown
+560,"ASUS 15.6"" IPS FHD, i3-1005G1, Intel UMA, 8GB DDR4, 256GB NVMe SSD, Backlit Chiclet KB, WiFi 5, BT 4.1, Silver, WIN 10 PRO",529.0,2,15.6,SSD,3.4,8,2.0,asus,0,i3
+561,"ASUS ROG Zephyrus GX502GW 15.6 Inch Full HD 240 Hz Gaming Laptop - (Black) (Intel i7-9750H, Nvidia GeForce RTX 2070 8 GB , 1 TB PCI-e SSD, 32 GB RAM, Per Key RGB)",2036.22,8,15.6,Others,2.6,16,3.4,asus,1,i7
+562,"HP EliteBook 820 G2 12.5-inch Ultrabook (Intel Core i7 5th Gen, 8GB Memory, 180GB SSD, WiFi, WebCam, Windows 10 Professional 64-bit) (Renewed)",390.0,36,12.5,SSD,2.3,8,4.0,hp,0,i7
+563,"ASUS ZenBook Flip UM462DA Full HD 14"" Touchscreen Laptop (AMD Ryzen 7 3700U, 16GB RAM, 512GB PCIe SSD, LED-NumberPad) - Includes Stylus Pen, Grey",779.97,51,14.0,Flash Memory Solid State,3.0,16,4.3,asus,0,amd
+564,"Apple MacBook Pro (16-Inch, 16GB RAM, 512GB Storage) - Silver",2129.0,646,16.0,Flash Memory Solid State,1.6,16,4.6,apple,0,unknown
+565,"Microsoft Surface Laptop 3 Ultra-Thin 15” Touchscreen Laptop (Platinum) - AMD Ryzen 7 3780U, 16GB RAM, 512GB SSD, Windows 10 Home, 2019 Edition",1629.0,353,15.0,SSD,2.1,16,4.6,other_brand,0,amd
+566,"HP OMEN 17-cb0005na 17.3 Inch FHD 144 Hz Gaming Laptop, Intel Core i7-9750H, 16 GB RAM, 512 GB SSD, 1 TB HDD, NVIDIA GeForce RTX 2060 (6 GB GDDR6 Dedicated) Graphics, Windows 10 Home - Black",1699.0,32,17.3,Others,2.6,16,4.4,hp,1,i7
+567,"Apple MacBook Pro (13-inch, 16GB RAM, 512GB SSD Storage, Magic Keyboard) - Space Grey (Latest Model)",1555.0,843,13.0,Flash Memory Solid State,2.0,512,4.7,apple,0,unknown
+568,Apple MacBook Air A1466 (MJVE2LL/A - Early 2015) 13in Core i5 1.6GHz 4GB Ram 128GB SSD Mac OSX Sierra (Renewed),380.8,16,13.0,SSD,1.6,4,4.0,apple,0,i5
+569,"Acer ConceptD 7 CN715-71 15.6 Inch Creator Laptop (Intel Core i7-9750H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 2060, 4K Ultra HD Display, Windows 10 Pro, White)",1850.14,5,15.6,Flash Memory Solid State,2.6,16,5.0,acer,1,i7
+570,"Razer Blade 15 Advanced Model 2019 (15.6 Inch Full-HD Display) Gaming Notebook (Intel Core i7-9750H, 16GB RAM, 256GB SSD, NVIDIA GeForce RTX 2070 Max-Q, Win 10, UK-Layout), Black",1480.0,178,15.6,Flash Memory Solid State,4.5,16,4.3,other_brand,1,i7
+571,"Apple MacBook Air 13"" (2017) - Core i5 1.8GHz, 8GB RAM, 128GB SSD (Renewed) …",665.07,46,13.3,SSD,1.8,8,4.3,apple,0,i5
+572,"ASUS VivoBook X413JA 14 inch Full HD Laptop (Intel i7-1065G7, 8GB RAM, 512GB SSD, Wi-Fi 6, Windows 10)",749.99,135,14.0,SSD,1.3,8,4.1,asus,0,i7
+573,"Alienware m17 R3 17.3 Inch FHD Gaming Laptop, Intel Core i7-10750H, 144Hz, 7ms 300-nits 72% NTSC Colour Gamut Display, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6, Win 10 Home",2449.0,39,17.3,Flash Memory Solid State,5.1,16,4.2,other_brand,1,i7
+574,"Microsoft Surface Laptop 3 Ultra-Thin 13.5” Touchscreen Laptop (Platinum) - Intel 10th Gen Quad Core i7, 16GB RAM, 512GB SSD, Windows 10 Home, 2019 Edition",1599.0,353,13.5,SSD,2.1,16,4.6,other_brand,0,i7
+575,"HP Pavilion 15-cw1017na 15.6"" FHD Touchscreen Laptop, AMD Ryzen™ 3 3300U, Radeon™ Vega 6 Graphics, 8GB DDR4, 512GB NVMe SSD, Wireless 11ac & Bluetooth 4.2, Windows 10 Pro - Non HP Plain Box (Renewed)",799.99,2,15.6,SSD,3.5,8,4.5,hp,1,amd
+576,"APPLE MACBOOK PRO A1278 MD101 CORE I5 2.5GHZ, 8GB RAM, 500GB HDD, 13.3in SCREEN (Renewed)",455.0,143,13.3,HDD,2.5,8,4.1,apple,0,i5
+577,Apple MacBook Air A1466 (MJVE2LL/A - Early 2015) 13in Core i5 1.6GHz 8GB Ram 128GB SSD Mac OSX Sierra (Renewed),510.0,12,13.0,SSD,1.6,8,4.4,apple,0,i5
+578,"Razer Blade 15 Gaming Laptop (2020): with 15.6 Inch, 4K OLED, Intel Core i7, NVIDIA GeForce RTX 2080 S, 16 GB RAM, 1 TB SSD, CNC Aluminum, Chroma RGB Lighting | UK QWERTY Layout",2498.99,286,15.6,Flash Memory Solid State,5.1,16,4.3,other_brand,1,i7
+579,"ASUS 15 X509JA-EJ028T - Core i5 1035G1 / 1 GHz - Win 10 Home 64-bit - 8 GB RAM - 256 GB SSD - 15.6"" TN 1920 x 1080 (Full HD) @ 60 Hz - HD Graphics 520 - 802.11ac, Bluetooth - slate grey",634.23,17,15.6,Flash Memory Solid State,1.0,8,4.8,asus,1,i5
+580,"Dell Inspiron 13 7391 2-in-1 13.3 Inch FHD Touchscreen Convertible Laptop with Active Pen (Black) Intel Core i5-10210U, 8 GB RAM, 512 GB SSD, FINGERPRINT READER, Windows 10 Home",908.82,23,13.3,Flash Memory Solid State,1.6,8,4.3,dell,0,i5
+581,"ASUS Zephyrus G14 GA401QM 14 inch QHD 120Hz Gaming Laptop (AMD Ryzen 9-5900HS, Nvidia GeForce RTX 3060, 32GB RAM, 1TB SSD, Windows 10) With LED lighting",1798.99,24,14.0,SSD,3.1,32,3.9,asus,1,amd
+582,"Acer ConceptD 7 Pro CN715-71P 15.6 Inch Creator Laptop (Intel Core i7-9750H, 16GB RAM, 1TB SSD, NVIDIA Quadro RTX 3000, 4K Ultra HD Display, Windows 10 Pro, White)",2299.99,5,15.6,Flash Memory Solid State,2.6,16,5.0,acer,1,i7
+583,"Microsoft Surface Book 3 15-Inch Notebook (Silver) - (Intel i7, 16GB RAM, 256GB SSD, 1660Ti NVIDIA Graphics, Windows 10 Home, 2020 Model)",1948.0,59,15.0,Flash Memory Solid State,1.3,16,4.2,other_brand,1,i7
+584,"Apple Mac mini (3.0GHz 6-core 8th-generation Intel Core i5 processor, 8GB RAM, 512GB) - Previous Model",899.0,106,16.0,Flash Memory Solid State,3.0,512,4.6,apple,0,i5
+585,"ASUS Chromebook 15 C523NA (Intel Pentium N4200 Processor, 15.6"" Full HD Screen, 64GB eMMC Storage, 8 GB RAM, Chrome OS)",399.99,3,15.6,Others,1.1,8,3.8,asus,0,unknown
+586,"Acer Swift 3 Thin & Light Laptop, 14"" Full HD IPS, AMD Ryzen 7 4700U Octa-Core with Radeon Graphics, 8GB LPDDR4, 512GB NVMe SSD, Wi-Fi 6, Backlit KB, Fingerprint Reader, Alexa Built-in, SF314-42-R9YN",1299.99,1823,14.0,Others,4.1,8,4.6,acer,1,amd
+587,"New Apple iMac Pro (27-inch, 32GB RAM, 1TB SSD Storage)",4799.37,1,27.0,Flash Memory Solid State,3.3,32,4.0,apple,0,unknown
+588,"Apple MacBook Pro Retina Display 13"" (Late 2013) - Core i5 2.4GHz, 4GB RAM, 128GB SSD (Renewed)",535.0,21,13.3,HDD,2.4,4,4.2,apple,0,i5
+589,"Lenovo ThinkBook 14 Core i7 16GB 512GB SSD 14"" Win10 Pro Laptop",909.99,2,14.0,Others,1.0,512,5.0,lenovo,0,i7
+590,Apple MacBook Air 13 inches A1466 (Early 2015) - Core i5-5250U 1.6GHz - 8GB RAM - 256GB SSD - WiFi - MAC OSX (Renewed),570.0,34,13.0,SSD,2.4,8,4.2,apple,0,i5
+591,"Dell Latitude 3410 14"" FHD laptop (Black) Intel Core i5-10210U, 8 GB RAM, 256 GB SSD, Win 10 Pro",799.13,2,14.0,Flash Memory Solid State,1.6,256,4.5,dell,0,i5
+592,"HP 14"" Chromebook - AMD A4 - 32 GB eMMC - Blue",254.9,2,14.0,EMMC,2.0,4,3.0,hp,0,amd
+593,"Lenovo IdeaPad S540 15.6 Inch FHD Laptop - (Intel Core i5, 8 GB RAM, 256 GB SSD, Windows 10 Home) - Mineral Grey",628.51,76,15.6,SSD,1.6,8,4.5,lenovo,0,i5
+594,"APPLE MACBOOK PRO A1278 MD101 CORE I5 2.5GHZ, 4GB RAM, 500GB HDD, 13.3in SCREEN (Renewed)",476.98,30,13.3,HDD,2.5,4,4.1,apple,0,i5
+595,"HP Envy x360 15-cp0598sa (4RE10EA) 15.6"" [AMD Ryzen 5 2500U, 8GB RAM, 1TB HDD + 128GB SSD, AMD Vega 8 Graphics, Windows 10, Dark Ash Silver]",1099.0,6,15.6,SATA,2.0,8,3.9,hp,1,amd
+596,"Apple MacBook Air 13"" (Early 2015) - Core i5 1.6GHz, 8GB RAM, 256GB SSD (Renewed)",577.0,68,13.3,SSD,1.6,8,4.1,apple,0,i5
+597,"Lenovo ThinkPad L13 Yoga Core i7-10510U 16GB 512GB SSD 13.3 Inch FHD Windows 10 Pro Convertible Laptop, 20R5000SUK",1124.38,3,13.3,SSD,1.0,16,3.7,lenovo,0,i7
+598,"Apple MacBook Pro 13 inches (Early 2015) - Core i5 2.9 GHz, 8GB RAM, 512GB SSD (Renewed)",750.0,9,13.3,SSD,2.9,8,4.8,apple,0,i5
+599,Lenovo IdeaPad Yoga C630 Iron Grey 13.3 inch FHD - SDM850 Qualcomm 2.841GH 8GB 128GB UFS2.1 Win10S 1yr Depot,508.98,4,13.3,Others,2.96,128,3.7,lenovo,0,unknown
+600,"Dell G7 17 7000 17.3-inch FHD 144 Hz IPS Anti-Glare LED Gaming Laptop - Intel-Core i7-9750H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2060 with 6GB GDDR6, Fingerprint Reader, Windows 10 Home",1543.4,19,17.3,Flash Memory Solid State,4.1,16,3.6,dell,1,i7
+601,"MSI GE66 Raider 10UH-002UK Full HD 300 Hz 15.6 Inch Gaming Laptop (Intel i7-10870H, NVIDIA GeForce RTX 3080 16 GB, 2TB NVMe PCIe Gen3x4 SSD, 32 GB RAM, Wi-Fi 6, 99.9Whr) Titanium Blue-Black",3298.99,1,15.6,SSD,4.8,2,4.0,other_brand,1,i7
+602,"Apple MacBook Pro (15-Inch, previous model, 16GB RAM, 512GB Storage) - Silver",2699.0,90,15.0,Flash Memory Solid State,1.6,16,4.2,apple,0,unknown
+603,"GPD Micro PC Windows 10 PRO Portable Mini Computer IT Professionals ; Intel Celeron, HD Graphics 600; 8GB RAM, 256GB NGFF SSD; 1GB/s Ethernet, RS-232 Input, Dual-Band Wi-Fi, BT 4.2 [MICROPC-256GB]",403.96,55,6.0,SSD,1.1,8,4.5,other_brand,1,unknown
+604,"Acer Swift 3 SF314-57 14-inch Laptop - (Intel Core i5-1065G7, 8GB RAM, 512GB SSD, Full HD Display, Windows 10, Iron)",816.61,21,14.0,Others,1.3,8,4.3,acer,0,i5
+605,"Lenovo 14e Chromebook 14"" Touch Laptop - AMD A4 1.6GHz CPU, 4GB RAM, 64GB eMMC, Google Chrome",379.99,1,14.0,Others,2.1,4,5.0,lenovo,0,amd
+606,"HP 255 G8 15.6-inch Laptop, AMD Ryzen 5 3500U Quad Core APU, 16 GB RAM, 2 TB SSD, Windows 10 Pro",949.0,12,15.6,SSD,3.7,16,4.6,hp,0,amd
+607,"HP 255 G8 15.6-inch Laptop, AMD Ryzen 5 3500U Quad Core APU, 8 GB RAM, 2 TB SSD, Windows 10 Pro",899.0,3,15.6,SSD,3.7,8,3.5,hp,0,amd
+608,"Apple MacBook Pro (16-Inch, 16GB RAM, 512GB Storage) - Space Grey",2099.0,646,16.0,Flash Memory Solid State,1.6,16,4.6,apple,0,unknown
+609,"Apple MacBook Air 13inches (Mid 2013) - Core i5 1.3GHz, 4GB RAM, 128GB SSD (Renewed)",399.0,27,13.3,SSD,1.3,4,4.2,apple,0,i5
+610,"Apple MacBook Pro 13in (Retina Early 2015) - Core i5 2.7GHz, 8GB RAM, 128GB SSD (Renewed)",650.0,25,13.3,SSD,2.7,8,4.6,apple,0,i5
+611,"Dell G3 15.6 inch FHD 60Hz 220 nits IPS Anti-Glare LED Backlit Narrow Border Gaming laptop, Intel Core i5-10300H, 8 GB RAM, 512 GB SSD, NVIDIA GTX 1650 4GB GDDR6, Win 10 Home",782.82,46,15.6,Flash Memory Solid State,4.5,8,4.2,dell,1,i5
+612,"Acer Chromebook 14 CB514-1HT - (Intel Pentium N4200, 4GB RAM, 128GB eMMC, 14 inch Full HD touchscreen display, Chrome OS, Silver)",399.99,79,14.0,Flash Memory Solid State,1.1,4,4.5,acer,0,unknown
+613,"Apple MacBook Air 11 inch (Early 2015) - Core i5 1.6GHz, 4GB RAM, 128GB SSD (Renewed)",440.0,92,11.0,SSD,1.6,4,4.3,apple,0,i5
+614,"New Apple Mac mini with Apple M1 Chip (8GB RAM, 256GB SSD)",648.45,267,27.0,Flash Memory Solid State,3.0,8,4.6,other_brand,0,unknown
+615,"Dell XPS 15 7590 15.6 inch 4K UHD Touchscreen, Intel Core i7-9750H, InfinityEdge IPS 2019 Laptop (Silver) 16 GB RAM, 512 GB SSD, Nvidia GeForce GTX 1650 with 4GB GDDR5, FINGERPRINT READER, W10 Home",1814.2,82,15.6,Flash Memory Solid State,2.6,16,4.1,dell,1,i7
+616,"HP 11a-nb0002na Chromebook 11.6 Inch HD Display, (Ash Gray) (Intel Celeron N3350, 4 GB RAM, 32 GB eMMC, 100 GB Google One, 1 Year Subscription Included)",199.99,326,11.6,EMMC,1.1,4,4.6,hp,0,unknown
+617,"ASUS C434 Full HD 14 Inch Touchscreen ChromeBook (Intel M3-8100Y Processor, 128 GB eMMC, 4 GB RAM, 360 Degree Full HD Rotatable NanoEdge Touchscreen), Silver",499.0,705,14.0,Others,1.1,4,4.5,asus,0,unknown
+618,"Acer Aspire 5 Slim Laptop, 15.6"" Full HD IPS Display, AMD Ryzen 5 3500U, Vega 8 Graphics, 8GB DDR4, 256GB SSD, Backlit Keyboard, Windows 10 Home, A515-43-R5RE, Silver",999.99,436,15.6,Others,3.7,8,4.8,acer,1,amd
+619,16-Inch Touch Bar Mac Space Grey 2.3ghz 8-Core i9 32GB 1TB SSD 5500M 8GB Deecies Limited Laptop Pro Book,3229.0,1,16.0,SSD,2.3,32,5.0,other_brand,0,i9
+620,"Apple MacBook Air 13"" (Mid 2013) - Core i5 1.3GHz, 4GB RAM, 128GB SSD (Renewed)",481.05,12,13.3,SSD,1.3,4,4.1,apple,0,i5
+621,HUAWEI Matebook 13 2019(Wright-W19G) WIN Home(Intel I5 8 GB+512 GB+MX250),698.99,74,13.0,Flash Memory Solid State,3.4,8,4.2,other_brand,0,i5
+622,"Dell Venue 11 Pro 7139 - 10.8"" Touchscreen - i5-4300Y 1.6GHz CPU - 8GB RAM - 256GB SSD - Windows 10 Home (Renewed)",249.99,2,10.8,SSD,1.6,8,2.5,dell,0,i5
+623,"Acer Chromebook 315 CB315-3HT - (Intel Pentium N5000, 4GB RAM, 64GB eMMC, 15.6 inch Full HD Touchscreen Display, Chrome OS, Silver)",349.99,12,15.6,Others,2.7,4,4.4,acer,0,unknown
+624,"Apple MacBook Pro (13-inch, 16GB RAM, 1TB SSD Storage, Magic Keyboard) - Space Grey (Latest Model)",1799.0,843,13.0,Flash Memory Solid State,2.0,16,4.7,apple,0,unknown
+625,"MSI GF75 Thin 10SCSR-414UK - 17.3 Inch Full HD 144 Hz Gaming Laptop, Intel Core i7-10750H, NVIDIA GTX 1650Ti, 5 GB RAM, 512 GB NVMe SSD, Windows 10",898.99,1,17.3,Flash Memory Solid State,2.6,8,5.0,other_brand,1,i7
