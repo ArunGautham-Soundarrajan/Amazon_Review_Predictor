@@ -22,7 +22,7 @@ Built a web scrapper from scratch which is specifically built for this. It scrap
 * RAM
 
 # Data Cleaning
-As the Amazon website contained many repeated sponsored ads for laptop and some irrelavant contents as moving across the pages, it required lot of cleaning.
+As the Amazon website contained many repeated sponsored ads for laptops and some irrelavant contents as moving across the pages, it required a lot of cleaning.
 * Dropped all the Duplicate records.
 * Filtered records which are not laptops.
 * Removed extra symbols like £ etc..
@@ -37,11 +37,11 @@ Since I just scanned the index page, it did not contain all the details.
 * Created a new column for Ratings per user.
 * Created a new feature named Processor type from Title.
 
-After performing cleaning and engineering we ended up with only roughly *600 records of data*.
+After performing cleaning and engineering we ended up with roughly *600 records of data*, which I consider less data.
 
 # Exploratory Data Analysis
 ### Count Plot for brands
-The first thing I did was to look at the countplot to see the spread of data across brands. It is obvious that there are many laptops labels as *Other brand* because of the lack of proper title or might be too small to give a seperate column for.
+The first thing I did was to look at the countplot to see the spread of data across brands. It is obvious that there are many laptops with labels as *Other brand* because of the lack of proper title or the count might be too small to create a seperate column for.
 
 
 ![count plot](https://github.com/ArunGautham-Soundarrajan/Laptops_Price_Predictor/blob/main/images/countplot_brand.png)
@@ -73,10 +73,10 @@ From the plot,
 It does'nt mean that, there are no laptops with rating below 4 stars, we can take a look at Distribution of ratings to get better insight.
 
 ![Rating Dist](https://github.com/ArunGautham-Soundarrajan/Laptops_Price_Predictor/blob/main/images/rating_dist.png)
-* *Asus* got 1 star rating for one or two latops may be, my bad.
-* Other brand latops also got ratings less than 3.
-* But I can clearly see, *Asus , Dell and Other brand* laptops have many reviews less than three. Which might indicate, we want to double check before consider buying one.
+* *Asus* got 1 star rating for one or two laptops may be, my bad.
+* Other brand laptops also got ratings less than 3.
+* But I can clearly see, *Asus , Dell and Other brand* laptops have many reviews with the rating less than three. Which might indicate, we want to double check before consider buying one.
 
-These are some of the useful explorations to note one, while there are still more.
+These are some of the useful explorations to note, while there are still more.
 
 
