@@ -79,4 +79,34 @@ It does'nt mean that, there are no laptops with rating below 4 stars, we can tak
 
 These are some of the useful explorations to note, while there are still more.
 
+# Model Building
+
+The problem statement is to predict the price , if given the specification and ratings. Predicting price is a regression task. 
+I experimented with *Linear Regression, Lasso Regression* and finally *Random Forest Regressor*. I used to *Standard Scaler* to scale the data for Lasso and Random Forest Regressor as that can improve the performance.
+
+I did hyperparameter tuning for the best baseline model, to improve the R2 score.
+
+# Model's Performance
+
+### Baseline model
+
+Model | R2 Score | MAE 
+--- | --- | ---
+Mulitple Linear Regression | 0.68 | 233.51
+Lasso Regression | 0.69 | 231.67
+Random Forest Regressor | 0.81 | 144.12
+
+### After Hyperparameter Tuning
+
+I used Grid Search CV to find the right parameter. I did not improve the score as expected.
+
+Model | R2 Score | MAE 
+--- | --- | ---
+Random Forest Regressor | 0.83 | 139.14
+
+I guess, the data was not good enough. I might want to add more features and balance the imbalanced data like *Other Brand* needs to be split up, may be the model might generalize better. 
+
+Working on version 2
+
+
 
